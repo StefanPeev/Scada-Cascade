@@ -5,12 +5,11 @@
   <anchor x="155" y="500" name="_top"/>
   <anchor x="155" y="660" name="top"/>
   <outline>
-    <component base="macron"/>
+    <contour>
+      <point x="290" y="590" type="line"/>
+      <point x="290" y="660" type="line"/>
+      <point x="20" y="660" type="line"/>
+      <point x="20" y="590" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

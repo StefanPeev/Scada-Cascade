@@ -49,7 +49,7 @@
     </contour>
     <contour>
       <point x="410" y="485" type="line"/>
-      <point x="450" y="485" type="line"/>
+      <point x="450" y="485" type="line" smooth="yes"/>
       <point x="501" y="485"/>
       <point x="522" y="460"/>
       <point x="522" y="420" type="curve" smooth="yes"/>

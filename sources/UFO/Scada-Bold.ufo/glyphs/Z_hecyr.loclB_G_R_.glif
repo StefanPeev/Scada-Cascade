@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhecyr.loclBGR" format="2">
+  <advance width="860"/>
+  <outline>
+    <contour>
+      <point x="500" y="700" type="line" name="n00"/>
+      <point x="360" y="700" type="line" name="n01"/>
+      <point x="360" y="390" type="line"/>
+      <point x="175" y="700" type="line"/>
+      <point x="20" y="700" type="line"/>
+      <point x="230" y="365" type="line"/>
+      <point x="5" y="0" type="line" name="n06"/>
+      <point x="165" y="0" type="line"/>
+      <point x="360" y="330" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="330" type="line"/>
+      <point x="695" y="0" type="line"/>
+      <point x="855" y="0" type="line"/>
+      <point x="630" y="365" type="line"/>
+      <point x="840" y="700" type="line"/>
+      <point x="685" y="700" type="line"/>
+      <point x="500" y="390" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>bccd09a248a93df44ac2f3af0795906126fc17353fb3456ce9cfeb7839bc7e6d6e466ed316310caaf5b08c333debf92597bd61caad60b9c8e608128a641daa4f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 360 140</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

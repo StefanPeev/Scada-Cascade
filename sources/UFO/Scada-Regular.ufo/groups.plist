@@ -196,5 +196,55 @@
     <string>Qa-cy</string>
     <string>We-cy</string>
   </array>
+  <key>loclBGR</key>
+  <array>
+    <string>De-cy</string>
+    <string>Zhe-cy</string>
+    <string>Ka-cy</string>
+    <string>El-cy</string>
+    <string>ve-cy</string>
+    <string>ge-cy</string>
+    <string>de-cy</string>
+    <string>zhe-cy</string>
+    <string>ze-cy</string>
+    <string>i-cy</string>
+    <string>iishort-cy</string>
+    <string>ka-cy</string>
+    <string>el-cy</string>
+    <string>pe-cy</string>
+    <string>te-cy</string>
+    <string>tse-cy</string>
+    <string>sha-cy</string>
+    <string>shcha-cy</string>
+    <string>hardsign-cy</string>
+    <string>softsign-cy</string>
+    <string>iu-cy</string>
+    <string>iigrave-cy</string>
+  </array>
+  <key>loclBGR2</key>
+  <array>
+    <string>Decyr.loclBGR</string>
+    <string>Zhecyr.loclBGR</string>
+    <string>Kacyr.loclBGR</string>
+    <string>Elcyr.loclBGR</string>
+    <string>vecyr.loclBGR</string>
+    <string>gecyr.loclBGR</string>
+    <string>decyr.loclBGR</string>
+    <string>zhecyr.loclBGR</string>
+    <string>zecyr.loclBGR</string>
+    <string>icyr.loclBGR</string>
+    <string>ishortcyr.loclBGR</string>
+    <string>kacyr.loclBGR</string>
+    <string>elcyr.loclBGR</string>
+    <string>pecyr.loclBGR</string>
+    <string>tecyr.loclBGR</string>
+    <string>tsecyr.loclBGR</string>
+    <string>shacyr.loclBGR</string>
+    <string>shchacyr.loclBGR</string>
+    <string>hardcyr.loclBGR</string>
+    <string>softcyr.loclBGR</string>
+    <string>yucyr.loclBGR</string>
+    <string>igravecyr.loclBGR</string>
+  </array>
 </dict>
 </plist>

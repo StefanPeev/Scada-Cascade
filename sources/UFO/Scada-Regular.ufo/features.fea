@@ -1,6 +1,8 @@
 #> classes
 #/> otclasses
 @Uppercase = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcommaaccent H I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent T Tcaron Tcommaaccent U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W X Y Yacute Ydieresis Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kabashkir-cy Endescender-cy Pedescender-cy Esdescender-cy Ustrait-cy Ustraitstroke-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Palochka-cy Zhebreve-cy Chekhakassian-cy Abreve-cy Adieresis-cy Iebreve-cy Schwa-cy Zhedieresis-cy Zedieresis-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Qa-cy We-cy];
+@loclBGR = [De-cy Zhe-cy Ka-cy El-cy ve-cy ge-cy de-cy zhe-cy ze-cy i-cy iishort-cy ka-cy el-cy pe-cy te-cy tse-cy sha-cy shcha-cy hardsign-cy softsign-cy iu-cy iigrave-cy];
+@loclBGR2 = [Decyr.loclBGR Zhecyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR];
 #/< otclasses
 #< classes
 
@@ -14,7 +16,6 @@ feature aalt {
 feature ccmp;
 feature locl;
 feature sups;
-feature frac;
 feature ordn;
 feature case;
 } aalt;
@@ -45,6 +46,9 @@ sub scedilla by scommaaccent;
 language MOL;
 sub Scedilla by Scommaaccent;
 sub scedilla by scommaaccent;
+script cyr;
+language BGR;
+sub @loclBGR by @loclBGR2;
 } locl;
 feature sups {
 sub one by onesuperior;

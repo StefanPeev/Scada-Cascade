@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enghe-cy" format="2">
+  <advance width="670"/>
+  <unicode hex="04A5"/>
+  <outline>
+    <component base="en-cy"/>
+    <contour>
+      <point x="660" y="423.333" type="line"/>
+      <point x="660" y="500" type="line"/>
+      <point x="373.333" y="500" type="line"/>
+      <point x="486.667" y="423.333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

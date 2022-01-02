@@ -66,6 +66,8 @@
   <string>D_croat.glif</string>
   <key>De-cy</key>
   <string>D_e-cy.glif</string>
+  <key>Decyr.loclBGR</key>
+  <string>D_ecyr.loclB_G_R_.glif</string>
   <key>Dje-cy</key>
   <string>D_je-cy.glif</string>
   <key>Dze-cy</key>
@@ -92,6 +94,8 @@
   <string>E_grave.glif</string>
   <key>El-cy</key>
   <string>E_l-cy.glif</string>
+  <key>Elcyr.loclBGR</key>
+  <string>E_lcyr.loclB_G_R_.glif</string>
   <key>Em-cy</key>
   <string>E_m-cy.glif</string>
   <key>Emacron</key>
@@ -198,6 +202,8 @@
   <string>K_a-cy.glif</string>
   <key>Kabashkir-cy</key>
   <string>K_abashkir-cy.glif</string>
+  <key>Kacyr.loclBGR</key>
+  <string>K_acyr.loclB_G_R_.glif</string>
   <key>Kadescender-cy</key>
   <string>K_adescender-cy.glif</string>
   <key>Kaverticalstroke-cy</key>
@@ -390,6 +396,8 @@
   <string>Z_he-cy.glif</string>
   <key>Zhebreve-cy</key>
   <string>Z_hebreve-cy.glif</string>
+  <key>Zhecyr.loclBGR</key>
+  <string>Z_hecyr.loclB_G_R_.glif</string>
   <key>Zhedescender-cy</key>
   <string>Z_hedescender-cy.glif</string>
   <key>Zhedieresis-cy</key>
@@ -450,6 +458,8 @@
   <string>bar.glif</string>
   <key>be-cy</key>
   <string>be-cy.glif</string>
+  <key>becyr.loclSRB</key>
+  <string>becyr.loclS_R_B_.glif</string>
   <key>braceleft</key>
   <string>braceleft.glif</string>
   <key>braceright</key>
@@ -524,6 +534,8 @@
   <string>dcroat.glif</string>
   <key>de-cy</key>
   <string>de-cy.glif</string>
+  <key>decyr.loclBGR</key>
+  <string>decyr.loclB_G_R_.glif</string>
   <key>degree</key>
   <string>degree.glif</string>
   <key>descender-cy</key>
@@ -572,6 +584,8 @@
   <string>eight.glif</string>
   <key>el-cy</key>
   <string>el-cy.glif</string>
+  <key>elcyr.loclBGR</key>
+  <string>elcyr.loclB_G_R_.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>em-cy</key>
@@ -630,6 +644,8 @@
   <string>gcommaaccent.glif</string>
   <key>ge-cy</key>
   <string>ge-cy.glif</string>
+  <key>gecyr.loclBGR</key>
+  <string>gecyr.loclB_G_R_.glif</string>
   <key>gedescender-cy</key>
   <string>gedescender-cy.glif</string>
   <key>germandbls</key>
@@ -660,6 +676,8 @@
   <string>h.glif</string>
   <key>ha-cy</key>
   <string>ha-cy.glif</string>
+  <key>hardcyr.loclBGR</key>
+  <string>hardcyr.loclB_G_R_.glif</string>
   <key>hardsign-cy</key>
   <string>hardsign-cy.glif</string>
   <key>hbar</key>
@@ -682,6 +700,8 @@
   <string>iacute.glif</string>
   <key>icircumflex</key>
   <string>icircumflex.glif</string>
+  <key>icyr.loclBGR</key>
+  <string>icyr.loclB_G_R_.glif</string>
   <key>idieresis</key>
   <string>idieresis.glif</string>
   <key>idieresis-cy</key>
@@ -696,6 +716,8 @@
   <string>iegrave-cy.glif</string>
   <key>igrave</key>
   <string>igrave.glif</string>
+  <key>igravecyr.loclBGR</key>
+  <string>igravecyr.loclB_G_R_.glif</string>
   <key>ii-cy</key>
   <string>ii-cy.glif</string>
   <key>iigrave-cy</key>
@@ -712,6 +734,8 @@
   <string>io-cy.glif</string>
   <key>iogonek</key>
   <string>iogonek.glif</string>
+  <key>ishortcyr.loclBGR</key>
+  <string>ishortcyr.loclB_G_R_.glif</string>
   <key>itilde</key>
   <string>itilde.glif</string>
   <key>iu-cy</key>
@@ -730,6 +754,8 @@
   <string>ka-cy.glif</string>
   <key>kabashkir-cy</key>
   <string>kabashkir-cy.glif</string>
+  <key>kacyr.loclBGR</key>
+  <string>kacyr.loclB_G_R_.glif</string>
   <key>kadescender-cy</key>
   <string>kadescender-cy.glif</string>
   <key>kaverticalstroke-cy</key>
@@ -842,6 +868,8 @@
   <string>parenright.glif</string>
   <key>pe-cy</key>
   <string>pe-cy.glif</string>
+  <key>pecyr.loclBGR</key>
+  <string>pecyr.loclB_G_R_.glif</string>
   <key>pedescender-cy</key>
   <string>pedescender-cy.glif</string>
   <key>percent</key>
@@ -916,14 +944,20 @@
   <string>seven.glif</string>
   <key>sha-cy</key>
   <string>sha-cy.glif</string>
+  <key>shacyr.loclBGR</key>
+  <string>shacyr.loclB_G_R_.glif</string>
   <key>shcha-cy</key>
   <string>shcha-cy.glif</string>
+  <key>shchacyr.loclBGR</key>
+  <string>shchacyr.loclB_G_R_.glif</string>
   <key>shha-cy</key>
   <string>shha-cy.glif</string>
   <key>six</key>
   <string>six.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
+  <key>softcyr.loclBGR</key>
+  <string>softcyr.loclB_G_R_.glif</string>
   <key>softhyphen</key>
   <string>softhyphen.glif</string>
   <key>softsign-cy</key>
@@ -942,6 +976,8 @@
   <string>tcommaaccent.glif</string>
   <key>te-cy</key>
   <string>te-cy.glif</string>
+  <key>tecyr.loclBGR</key>
+  <string>tecyr.loclB_G_R_.glif</string>
   <key>tenge</key>
   <string>tenge.glif</string>
   <key>thorn</key>
@@ -960,6 +996,8 @@
   <string>trademark.glif</string>
   <key>tse-cy</key>
   <string>tse-cy.glif</string>
+  <key>tsecyr.loclBGR</key>
+  <string>tsecyr.loclB_G_R_.glif</string>
   <key>tshe-cy</key>
   <string>tshe-cy.glif</string>
   <key>tugrik</key>
@@ -1006,6 +1044,8 @@
   <string>v.glif</string>
   <key>ve-cy</key>
   <string>ve-cy.glif</string>
+  <key>vecyr.loclBGR</key>
+  <string>vecyr.loclB_G_R_.glif</string>
   <key>verticalbar-cy</key>
   <string>verticalbar-cy.glif</string>
   <key>verticalbar-cy.case</key>
@@ -1032,6 +1072,8 @@
   <string>yerudieresis-cy.glif</string>
   <key>yi-cy</key>
   <string>yi-cy.glif</string>
+  <key>yucyr.loclBGR</key>
+  <string>yucyr.loclB_G_R_.glif</string>
   <key>yusbig-cy</key>
   <string>yusbig-cy.glif</string>
   <key>z</key>
@@ -1044,6 +1086,8 @@
   <string>zdotaccent.glif</string>
   <key>ze-cy</key>
   <string>ze-cy.glif</string>
+  <key>zecyr.loclBGR</key>
+  <string>zecyr.loclB_G_R_.glif</string>
   <key>zedescender-cy</key>
   <string>zedescender-cy.glif</string>
   <key>zedieresis-cy</key>
@@ -1054,6 +1098,8 @@
   <string>zhe-cy.glif</string>
   <key>zhebreve-cy</key>
   <string>zhebreve-cy.glif</string>
+  <key>zhecyr.loclBGR</key>
+  <string>zhecyr.loclB_G_R_.glif</string>
   <key>zhedescender-cy</key>
   <string>zhedescender-cy.glif</string>
   <key>zhedieresis-cy</key>

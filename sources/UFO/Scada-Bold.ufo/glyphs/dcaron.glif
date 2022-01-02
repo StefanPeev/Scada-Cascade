@@ -39,7 +39,9 @@
       <point x="298" y="420"/>
       <point x="316" y="412"/>
       <point x="329" y="405" type="curve"/>
-      <point x="350" y="390" type="line"/>
+      <point x="332.802" y="402.284"/>
+      <point x="346.743" y="392.327"/>
+      <point x="350" y="390" type="curve"/>
       <point x="350" y="145" type="line"/>
       <point x="343" y="134"/>
       <point x="336" y="124"/>

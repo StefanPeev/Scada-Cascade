@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardcyr.loclBGR" format="2">
+  <advance width="696"/>
+  <outline>
+    <component base="softcyr.loclBGR" xScale="1" xOffset="63.3333"/>
+    <contour>
+      <point x="250" y="500" type="line"/>
+      <point x="10" y="500" type="line"/>
+      <point x="10" y="423.333" type="line"/>
+      <point x="250" y="423.333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

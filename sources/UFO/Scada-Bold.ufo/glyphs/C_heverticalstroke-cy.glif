@@ -6,10 +6,4 @@
     <component base="Che-cy"/>
     <component base="verticalbar-cy.case" xOffset="226" yOffset="-77"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

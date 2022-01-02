@@ -24,6 +24,36 @@
     <key>y</key>
     <integer>250</integer>
   </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>250</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>250</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>250</integer>
+  </dict>
   </array>
   <key>italicAngle</key>
   <integer>-0</integer>
@@ -42,7 +72,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2022/01/01 19:24:00</string>
+  <string>2022/01/02 03:38:31</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -137,7 +167,7 @@
   <key>postscriptBlueValues</key>
   <array>
     <integer>-11</integer>
-    <integer>0</integer>
+    <integer>-0</integer>
     <integer>920</integer>
     <integer>936</integer>
     <integer>700</integer>
@@ -164,8 +194,6 @@
     <integer>60</integer>
     <integer>75</integer>
     <integer>110</integer>
-    <integer>130</integer>
-    <integer>150</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
