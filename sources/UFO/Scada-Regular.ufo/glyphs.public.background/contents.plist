@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Izhitsa-cy</key>
+  <string>I_zhitsa-cy.glif</string>
+  <key>Kaverticalstroke-cy</key>
+  <string>K_averticalstroke-cy.glif</string>
+  <key>Schwa-cy</key>
+  <string>S_chwa-cy.glif</string>
+  <key>Yat-cy</key>
+  <string>Y_at-cy.glif</string>
+  <key>Yusbig-cy</key>
+  <string>Y_usbig-cy.glif</string>
+  <key>hryvnia</key>
+  <string>hryvnia.glif</string>
+  <key>izhitsa-cy</key>
+  <string>izhitsa-cy.glif</string>
+  <key>kaverticalstroke-cy</key>
+  <string>kaverticalstroke-cy.glif</string>
+  <key>yusbig-cy</key>
+  <string>yusbig-cy.glif</string>
+</dict>
+</plist>

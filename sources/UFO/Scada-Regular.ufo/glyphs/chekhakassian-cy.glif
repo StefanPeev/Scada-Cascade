@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chekhakassian-cy" format="2">
+  <advance width="520"/>
+  <unicode hex="04CC"/>
+  <outline>
+    <component base="che-cy"/>
+    <contour>
+      <point x="360" y="-140" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="445" y="0" type="line"/>
+      <point x="445" y="70" type="line"/>
+      <point x="280" y="70" type="line"/>
+      <point x="280" y="-140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

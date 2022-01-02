@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="De-cy" format="2">
+  <advance width="620"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="95" y="-150" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="500" y="-150" type="line"/>
+      <point x="580" y="-150" type="line"/>
+      <point x="580" y="70" type="line"/>
+      <point x="515" y="70" type="line"/>
+      <point x="515" y="700" type="line"/>
+      <point x="140" y="700" type="line"/>
+      <point x="115" y="250" type="line" smooth="yes"/>
+      <point x="111" y="186"/>
+      <point x="98" y="142"/>
+      <point x="85" y="113" type="curve"/>
+      <point x="78" y="96"/>
+      <point x="69" y="81"/>
+      <point x="60" y="70" type="curve"/>
+      <point x="10" y="70" type="line"/>
+      <point x="10" y="-150" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="70" type="line"/>
+      <point x="169" y="81"/>
+      <point x="178" y="96"/>
+      <point x="185" y="113" type="curve"/>
+      <point x="198" y="142"/>
+      <point x="211" y="186"/>
+      <point x="215" y="250" type="curve"/>
+      <point x="235" y="630" type="line"/>
+      <point x="415" y="630" type="line"/>
+      <point x="415" y="70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

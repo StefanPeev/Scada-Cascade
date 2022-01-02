@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kadescender-cy" format="2">
+  <advance width="540"/>
+  <unicode hex="049B"/>
+  <outline>
+    <component base="ka-cy"/>
+    <contour>
+      <point x="520" y="-140" type="line"/>
+      <point x="520" y="5" type="line"/>
+      <point x="395" y="0" type="line"/>
+      <point x="415" y="-140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
