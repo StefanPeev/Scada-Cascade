@@ -9,7 +9,7 @@ In 2005, Scada was designed as the corporate identity font for the Latvian desig
 
 A new approach in development of the project is connected with local Cyrillic forms for Bulgarian, Serbian and North Macedonian languages. To make a difference between the original project Scada and the new one the latest will be developed under the name Cascade.
 
-### Cascade version 4.100
+### Cascade version 4.101
 
 * Local Cyrillic forms for Bulgarian, Serbian, North Macedonian languages under the new project name - Cascade
 * Expanded glyph set to GF Cyrillic Plus

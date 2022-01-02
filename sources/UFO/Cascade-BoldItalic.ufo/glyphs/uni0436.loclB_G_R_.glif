@@ -3,25 +3,25 @@
   <advance width="770"/>
   <outline>
     <contour>
-      <point x="290.285" y="0" type="line" name="n00"/>
+      <point x="-4.71484" y="0" type="line" name="n00"/>
+      <point x="150.285" y="0" type="line"/>
+      <point x="331.723" y="235" type="line"/>
+      <point x="290.285" y="0" type="line"/>
       <point x="430.285" y="0" type="line"/>
       <point x="471.723" y="235" type="line"/>
       <point x="570.285" y="0" type="line"/>
       <point x="725.285" y="0" type="line"/>
       <point x="601.131" y="260" type="line"/>
-      <point x="803.449" y="500" type="line" name="n06"/>
+      <point x="803.449" y="500" type="line" name="n09"/>
       <point x="648.449" y="500" type="line"/>
       <point x="480.539" y="285" type="line"/>
-      <point x="553.715" y="700" type="line" name="n09"/>
+      <point x="553.715" y="700" type="line" name="n12"/>
       <point x="453.715" y="700" type="line"/>
       <point x="406.661" y="660" type="line"/>
       <point x="340.539" y="285" type="line"/>
       <point x="248.449" y="500" type="line"/>
       <point x="93.4492" y="500" type="line"/>
       <point x="211.131" y="260" type="line"/>
-      <point x="-4.71484" y="0" type="line"/>
-      <point x="150.285" y="0" type="line"/>
-      <point x="331.723" y="235" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>141352c1c141b0507ecb7978af8cd72ae61ba9ffccf184eb5169a38fc853e377fde703fe8fbbb80d8f514e724c15707bd24e728e36e500755900dd2d73f28c05</string>
+    <string>0bb48b4c0c244211576bf605e148a026ba0958308f3b45ae68ebdb95ead1d9314692cf7430e1009c0e2d10fb550a1aebe51d6403fb58e064afa560958b4969f1</string>
     <key>hintSetList</key>
     <array>
       <dict>

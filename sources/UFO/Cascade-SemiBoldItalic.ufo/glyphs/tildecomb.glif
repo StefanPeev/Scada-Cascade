@@ -7,36 +7,34 @@
   <anchor x="-59.3333" y="711.667" name="t.gravecomb"/>
   <outline>
     <contour>
-      <point x="15.6667" y="670" type="curve"/>
-      <point x="31.6013" y="670"/>
-      <point x="38.0557" y="683.333"/>
-      <point x="44.6667" y="698.333" type="curve"/>
-      <point x="45.207" y="697.754"/>
-      <point x="20.2357" y="677.781"/>
-      <point x="1.33333" y="680" type="curve" name="n06"/>
-      <point x="-22.4213" y="680"/>
-      <point x="-33.0047" y="710" name="hr01"/>
-      <point x="-70.3333" y="710" type="curve" name="n09"/>
-      <point x="-104.333" y="709.667"/>
-      <point x="-144" y="663.667"/>
-      <point x="-162.667" y="630" type="curve" name="n12"/>
-      <point x="-168.221" y="627.189"/>
-      <point x="-146.863" y="629.625"/>
-      <point x="-156" y="625" type="curve"/>
-      <point x="-171.935" y="625"/>
-      <point x="-178.389" y="611.667"/>
-      <point x="-185" y="596.667" type="curve"/>
-      <point x="-184.909" y="597.27"/>
-      <point x="-159.864" y="615.86"/>
-      <point x="-141.667" y="615" type="curve" name="n21"/>
-      <point x="-117.911" y="615"/>
-      <point x="-108.675" y="585" name="hr02"/>
-      <point x="-70.6667" y="585" type="curve" name="n24"/>
-      <point x="-38" y="584.667"/>
-      <point x="3" y="630.667"/>
-      <point x="21.6667" y="665" type="curve" name="n27"/>
-      <point x="27.3144" y="667.811"/>
-      <point x="6.37516" y="665.375"/>
+      <point x="-225" y="616.667" type="curve" name="n00"/>
+      <point x="-179" y="588.333" type="line"/>
+      <point x="-170" y="588.333" type="line"/>
+      <point x="-156.388" y="616.335"/>
+      <point x="-139.741" y="628.333"/>
+      <point x="-120.155" y="628.333" type="curve" smooth="yes" name="n05"/>
+      <point x="-103.958" y="628.333"/>
+      <point x="-95.554" y="620.093"/>
+      <point x="-85.954" y="610.691" type="curve" smooth="yes"/>
+      <point x="-73.0695" y="598.108"/>
+      <point x="-57.9192" y="583.333" name="hr01"/>
+      <point x="-28.3553" y="583.333" type="curve" smooth="yes" name="n11"/>
+      <point x="20.9314" y="583.333"/>
+      <point x="65.5009" y="625.096"/>
+      <point x="84" y="678.333" type="curve" name="n14"/>
+      <point x="38.6667" y="706.667" type="line"/>
+      <point x="29.6667" y="706.667" type="line"/>
+      <point x="18.8683" y="679.944"/>
+      <point x="1.73817" y="666.667"/>
+      <point x="-18.4392" y="666.667" type="curve" smooth="yes" name="n19"/>
+      <point x="-34.8314" y="666.667"/>
+      <point x="-44.5094" y="675.443"/>
+      <point x="-55.3279" y="685.241" type="curve" smooth="yes"/>
+      <point x="-69.0482" y="697.631"/>
+      <point x="-84.6159" y="711.667" name="hr02"/>
+      <point x="-113.638" y="711.667" type="curve" smooth="yes" name="n25"/>
+      <point x="-163.265" y="711.667"/>
+      <point x="-206.501" y="669.904"/>
     </contour>
   </outline>
   <lib>
@@ -46,21 +44,21 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d28d24c5bf30ced8baa3bde3c96fb00bc60707e2ed804d41d5469a98b01f63bae6d0b1863c8cddc965f581c9669cec3bd7def3dcee7ef4964c60e932008dbf08</string>
+    <string>8109b162a54f11a530430111e1d46e5a494936527e46205fa3050d2aef13e83432ae42006f8e222eb63b1ff84d8f94dfa5e4373589f755b70d245db762261121</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 585 95</string>
-          <string>vstem -162.67 184.33</string>
+          <string>vstem -225 309</string>
+          <string>hstem 628.33 83.33</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 615 95</string>
-          <string>vstem -162.67 184.33</string>
+          <string>hstem 583.33 83.33</string>
+          <string>vstem -225 309</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>
@@ -68,8 +66,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 585 95</string>
-          <string>vstem -162.67 184.33</string>
+          <string>hstem 628.33 83.33</string>
+          <string>vstem -225 309</string>
         </array>
         <key>pointTag</key>
         <string>hr02</string>
