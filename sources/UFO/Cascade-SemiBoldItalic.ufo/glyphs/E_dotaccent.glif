@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotaccent" format="2">
+  <advance width="517"/>
+  <unicode hex="0116"/>
+  <outline>
+    <contour>
+      <point x="408.333" y="760" type="curve" smooth="yes" name="n00"/>
+      <point x="446.667" y="760"/>
+      <point x="483" y="791.667"/>
+      <point x="490.667" y="830" type="curve" smooth="yes"/>
+      <point x="498.333" y="868.333"/>
+      <point x="471.667" y="900"/>
+      <point x="433.333" y="900" type="curve" smooth="yes" name="n06"/>
+      <point x="395" y="900"/>
+      <point x="358.333" y="868.333"/>
+      <point x="350.667" y="830" type="curve" smooth="yes"/>
+      <point x="343.667" y="791.667"/>
+      <point x="370" y="760"/>
+    </contour>
+    <contour>
+      <point x="61.6667" y="0" type="line" name="n12"/>
+      <point x="471.667" y="0" type="line" name="n13"/>
+      <point x="485.667" y="83.3333" type="line" name="n14"/>
+      <point x="202.333" y="83.3333" type="line"/>
+      <point x="245" y="323.333" type="line" name="n16"/>
+      <point x="468.333" y="323.333" type="line"/>
+      <point x="483" y="406.667" type="line"/>
+      <point x="259.667" y="406.667" type="line" name="n19"/>
+      <point x="296.667" y="616.667" type="line"/>
+      <point x="580" y="616.667" type="line" name="n21"/>
+      <point x="594.667" y="700" type="line" name="n22"/>
+      <point x="184.667" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f3e2d66e63e0507a00cde29f2d80f52c0f515e015dcc2972468257e604dca699235df9f3b84f2e4d8b5e9a54de8263ff63252a37b07256fda6e60311e0e75b71</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 83.33</string>
+          <string>hstem 323.33 83.33</string>
+          <string>hstem 616.67 83.33</string>
+          <string>hstem 760 140</string>
+          <string>vstem 61.67 533</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

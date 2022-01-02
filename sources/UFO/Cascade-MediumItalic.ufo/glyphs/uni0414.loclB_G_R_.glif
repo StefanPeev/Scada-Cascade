@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0414.loclBGR" format="2">
+  <advance width="632"/>
+  <outline>
+    <contour>
+      <point x="498.646" y="700" type="line" name="n00"/>
+      <point x="386.646" y="700" type="line"/>
+      <point x="101.127" y="76.6667" type="line" name="n02"/>
+      <point x="37.46" y="76.6667" type="line"/>
+      <point x="-2.64648" y="-150" type="line"/>
+      <point x="90.6868" y="-150" type="line"/>
+      <point x="134.17" y="0" type="line" name="n06"/>
+      <point x="502.503" y="0" type="line"/>
+      <point x="492.354" y="-150" type="line"/>
+      <point x="580.687" y="-150" type="line"/>
+      <point x="620.793" y="76.6667" type="line"/>
+      <point x="563.46" y="76.6667" type="line"/>
+    </contour>
+    <contour>
+      <point x="389.54" y="503.333" type="line" smooth="yes"/>
+      <point x="396.814" y="518.667"/>
+      <point x="402.597" y="535.667"/>
+      <point x="407.812" y="550.667" type="curve"/>
+      <point x="414.948" y="575" type="line"/>
+      <point x="418.948" y="575" type="line"/>
+      <point x="418.754" y="550.333" type="line"/>
+      <point x="419.538" y="535.333"/>
+      <point x="418.48" y="518.667"/>
+      <point x="419.54" y="503.333" type="curve"/>
+      <point x="461.127" y="76.6667" type="line"/>
+      <point x="196.793" y="76.6667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1025f83fbad6a4d0ef019b46cbe3c5324eb6ee09cd9b6d1fe9c495523637b215e8b2ab4edb9f08fd649ee0a68d78d5449b54d14c8769a2b394009497310c305b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 76.67</string>
+          <string>hstem 700 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

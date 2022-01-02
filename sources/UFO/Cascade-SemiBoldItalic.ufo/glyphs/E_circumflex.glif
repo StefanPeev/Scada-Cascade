@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="2">
+  <advance width="523"/>
+  <unicode hex="00CA"/>
+  <outline>
+    <contour>
+      <point x="251.667" y="760" type="line"/>
+      <point x="336.667" y="760" type="line"/>
+      <point x="417.667" y="828.333" type="line"/>
+      <point x="473.333" y="760" type="line" name="n03"/>
+      <point x="558.333" y="760" type="line"/>
+      <point x="473.667" y="892.667" type="line" name="n05"/>
+      <point x="383.667" y="892.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="61.6667" y="0" type="line" name="n07"/>
+      <point x="471.667" y="0" type="line" name="n08"/>
+      <point x="485.667" y="83.3333" type="line" name="n09"/>
+      <point x="202.333" y="83.3333" type="line"/>
+      <point x="245" y="323.333" type="line" name="n11"/>
+      <point x="468.333" y="323.333" type="line"/>
+      <point x="483" y="406.667" type="line"/>
+      <point x="259.667" y="406.667" type="line" name="n14"/>
+      <point x="296.667" y="616.667" type="line"/>
+      <point x="580" y="616.667" type="line" name="n16"/>
+      <point x="594.667" y="700" type="line" name="n17"/>
+      <point x="184.667" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8599f03e4b1d42d27a53ef1ed89a701024ce2f83b78b230cb3ffb54e57473c4fffa7024db7040a0a64e9ab710e5bc881721d0bd043e890532e255838cfd863bb</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 83.33</string>
+          <string>hstem 323.33 83.33</string>
+          <string>hstem 616.67 83.33</string>
+          <string>hstem 760 132.67</string>
+          <string>vstem 61.67 533</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

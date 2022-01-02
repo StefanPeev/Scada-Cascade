@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="2">
+  <advance width="460"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="105.667" y="-200" type="line"/>
+      <point x="232.333" y="-200" type="line"/>
+      <point x="270" y="13.3333" type="line" name="n02"/>
+      <point x="416.667" y="13.3333" type="line"/>
+      <point x="431.333" y="96.6667" type="line"/>
+      <point x="284.667" y="96.6667" type="line" name="n05"/>
+      <point x="339" y="403.333" type="line" name="n06"/>
+      <point x="485.667" y="403.333" type="line"/>
+      <point x="500.333" y="486.667" type="line" name="n08"/>
+      <point x="353.667" y="486.667" type="line" name="n09"/>
+      <point x="391.333" y="700" type="line" name="n10"/>
+      <point x="264.667" y="700" type="line"/>
+      <point x="227" y="486.667" type="line"/>
+      <point x="80.3333" y="486.667" type="line"/>
+      <point x="65.6667" y="403.333" type="line"/>
+      <point x="212.333" y="403.333" type="line"/>
+      <point x="158" y="96.6667" type="line"/>
+      <point x="11.3333" y="96.6667" type="line"/>
+      <point x="-3.33333" y="13.3333" type="line" name="n18"/>
+      <point x="143.333" y="13.3333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5350420cafaec7520e6be547dac62a8e3d882ee6da00d45e111e2e668561edcb0ca8a888772e59f7d05f8c4cc34545e99860249f2901e1470e68577e77251b4a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 13.33 83.33</string>
+          <string>hstem 403.33 83.33</string>
+          <string>hstem 700 -20</string>
+          <string>vstem -3.33 503.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

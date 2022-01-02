@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="307"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="81" y="550" type="line" name="n00"/>
+      <point x="139.333" y="550" type="line" name="n01"/>
+      <point x="253" y="700" type="line"/>
+      <point x="153" y="700" type="line" name="n03"/>
+    </contour>
+    <contour>
+      <point x="222.667" y="550" type="line"/>
+      <point x="281" y="550" type="line"/>
+      <point x="394.667" y="700" type="line" name="n06"/>
+      <point x="294.667" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w307m81,550l139.33,550l253,700l153,700m222.67,550l281,550l394.67,700l294.67,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 550 150</string>
+          <string>vstem 81 313.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

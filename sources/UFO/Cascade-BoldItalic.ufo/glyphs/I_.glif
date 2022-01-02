@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="2">
+  <advance width="310"/>
+  <unicode hex="0049"/>
+  <anchor x="200" y="0" name="b.uni0328_1"/>
+  <anchor x="261" y="700" name="m.gravecomb_2"/>
+  <anchor x="130" y="0" name="m.uni0326"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line" name="n00"/>
+      <point x="200" y="0" type="line"/>
+      <point x="323" y="700" type="line" name="n02"/>
+      <point x="183" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w310m60,0l200,0l323,700l183,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 60 263</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

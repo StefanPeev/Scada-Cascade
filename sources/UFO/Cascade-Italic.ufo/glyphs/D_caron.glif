@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron" format="2">
+  <advance width="585"/>
+  <unicode hex="010E"/>
+  <outline>
+    <contour>
+      <point x="340" y="760" type="line" name="n00"/>
+      <point x="410" y="760" type="line"/>
+      <point x="538" y="890" type="line"/>
+      <point x="473" y="890" type="line"/>
+      <point x="387" y="825" type="line"/>
+      <point x="323" y="890" type="line" name="n05"/>
+      <point x="258" y="890" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="215" y="0" type="line" smooth="yes" name="n08"/>
+      <point x="405" y="0"/>
+      <point x="521" y="99"/>
+      <point x="566" y="350" type="curve"/>
+      <point x="609" y="601"/>
+      <point x="529" y="700"/>
+      <point x="338" y="700" type="curve" smooth="yes" name="n14"/>
+      <point x="188" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="70" type="line" name="n16"/>
+      <point x="276" y="630" type="line"/>
+      <point x="326" y="630" type="line" smooth="yes" name="n18"/>
+      <point x="445" y="630"/>
+      <point x="503" y="561"/>
+      <point x="466" y="350" type="curve" smooth="yes"/>
+      <point x="429" y="139"/>
+      <point x="348" y="70"/>
+      <point x="227" y="70" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1cfcd9ae8150659377f267e6d809d8d3b8c98d285ebc0ed7dcd7b78f0fa37d34ab91816360c5cfc23bae3bcc9e4fa16646e71695eb93ae397c5d5d39d50f8f80</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 70</string>
+          <string>hstem 630 70</string>
+          <string>hstem 760 130</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

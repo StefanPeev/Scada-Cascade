@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0496" format="2">
+  <advance width="900"/>
+  <unicode hex="0496"/>
+  <anchor x="0" y="0" name="b.uni0326_2"/>
+  <anchor x="0" y="0" name="b.uni0328_3"/>
+  <anchor x="0" y="0" name="b.uni0335_1"/>
+  <anchor x="542" y="700" name="m.gravecomb"/>
+  <outline>
+    <component base="uni0416"/>
+    <contour>
+      <point x="724" y="-3" type="line" name="n00"/>
+      <point x="718" y="-150" type="line"/>
+      <point x="823" y="-150" type="line"/>
+      <point x="850" y="5" type="line"/>
+      <point x="854" y="85" type="line"/>
+      <point x="849" y="85" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w900m724,-3l718,-150l823,-150l850,5l854,85l849,85</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 18 -21</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

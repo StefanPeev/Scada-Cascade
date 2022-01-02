@@ -1,0 +1,115 @@
+#> classes
+#/> otclasses
+@Uppercase = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcommaaccent H I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent T Tcaron Tcommaaccent U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W X Y Yacute Ydieresis Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kabashkir-cy Endescender-cy Pedescender-cy Esdescender-cy Ustrait-cy Ustraitstroke-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Palochka-cy Zhebreve-cy Chekhakassian-cy Abreve-cy Adieresis-cy Iebreve-cy Schwa-cy Zhedieresis-cy Zedieresis-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Qa-cy We-cy];
+@loclBGR = [De-cy Zhe-cy Ka-cy El-cy ve-cy ge-cy de-cy zhe-cy ze-cy ii-cy iishort-cy ka-cy el-cy pe-cy te-cy tse-cy sha-cy shcha-cy hardsign-cy softsign-cy iu-cy iigrave-cy];
+@loclBGR2 = [Decyr.loclBGR Zhecyr.loclBGR Kacyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR];
+#/< otclasses
+#< classes
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn CAT;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem cyrl dflt;
+languagesystem cyrl RUS;
+languagesystem cyrl BGR;
+languagesystem cyrl SRB;
+languagesystem cyrl MKD;
+
+feature aalt {
+feature ccmp;
+feature locl;
+feature sups;
+feature ordn;
+feature case;
+feature ss01;
+feature ss02;
+feature ss03;
+} aalt;
+
+feature ccmp {
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb ogonekcomb strokeshortcomb];
+	sub [i]' @CombiningTopAccents by [idotless];
+	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];
+	@Markscomb = [brevecomb-cy];
+	@MarkscombCase = [brevecomb-cy.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+} ccmp;
+
+feature locl {
+script latn ; # Latin
+language CAT;
+sub  l' periodcentered' l by ldot;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+script cyrl ; # Cyrillic;
+language BGR ; # Bulgarian
+sub @loclBGR by @loclBGR2;
+language SRB ; # Serbian
+sub be-cy by becyr.loclSRB;
+language MKD ; # Macedonian
+sub be-cy by becyr.loclSRB;
+} locl;
+
+feature sups {
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+} sups;
+
+feature frac {
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+
+feature ordn {
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
+} ordn;
+
+feature case {
+sub brevecomb-cy by brevecomb-cy.case;
+} case;
+
+feature dlig {
+sub En-cy Ge-cy by Enghe-cy;
+sub en-cy ge-cy by enghe-cy;
+} dlig;
+
+feature ss01 {
+# Stylistic Set 01–20
+
+  sub @loclBGR by @loclBGR2;
+
+} ss01;
+
+feature ss02 {
+# Stylistic Set 01–20
+
+  sub be-cy by becyr.loclSRB;
+
+} ss02;
+
+feature ss03 {
+# Stylistic Set 01–20
+
+  sub be-cy by becyr.loclSRB;
+
+} ss03;
+

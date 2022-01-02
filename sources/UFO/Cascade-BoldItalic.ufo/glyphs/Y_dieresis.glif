@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis" format="2">
+  <advance width="570"/>
+  <unicode hex="0178"/>
+  <outline>
+    <contour>
+      <point x="295" y="770" type="curve" smooth="yes" name="n00"/>
+      <point x="331" y="770"/>
+      <point x="372" y="803"/>
+      <point x="377" y="840" type="curve"/>
+      <point x="384" y="877"/>
+      <point x="357" y="910"/>
+      <point x="320" y="910" type="curve" smooth="yes" name="n06"/>
+      <point x="283" y="910"/>
+      <point x="245" y="877"/>
+      <point x="237" y="840" type="curve" smooth="yes"/>
+      <point x="230" y="803"/>
+      <point x="258" y="770"/>
+    </contour>
+    <contour>
+      <point x="490" y="770" type="curve" smooth="yes"/>
+      <point x="526" y="770"/>
+      <point x="567" y="803"/>
+      <point x="572" y="840" type="curve"/>
+      <point x="579" y="877"/>
+      <point x="552" y="910"/>
+      <point x="515" y="910" type="curve" smooth="yes"/>
+      <point x="478" y="910"/>
+      <point x="440" y="877"/>
+      <point x="432" y="840" type="curve" smooth="yes"/>
+      <point x="425" y="803"/>
+      <point x="453" y="770"/>
+    </contour>
+    <contour>
+      <point x="190" y="0" type="line" name="n24"/>
+      <point x="330" y="0" type="line"/>
+      <point x="370" y="230" type="line"/>
+      <point x="668" y="700" type="line" name="n27"/>
+      <point x="523" y="700" type="line"/>
+      <point x="346" y="405" type="line"/>
+      <point x="339" y="394"/>
+      <point x="335" y="384"/>
+      <point x="331" y="375" type="curve"/>
+      <point x="328" y="370"/>
+      <point x="326" y="365"/>
+      <point x="325" y="360" type="curve"/>
+      <point x="321" y="360" type="line"/>
+      <point x="321" y="365"/>
+      <point x="321" y="370"/>
+      <point x="320" y="375" type="curve"/>
+      <point x="319" y="384"/>
+      <point x="319" y="394"/>
+      <point x="316" y="405" type="curve" smooth="yes"/>
+      <point x="243" y="700" type="line"/>
+      <point x="98" y="700" type="line" name="n44"/>
+      <point x="230" y="230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9ed6097708917f265bca36de0c806b360dde2f890da32e2002571f493463ca240b7d6d4d2ade489d5b6434522d2ef8a0ea3967d639e7def3c29e1687e54f74c1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+          <string>hstem 770 140</string>
+          <string>vstem 98 570</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

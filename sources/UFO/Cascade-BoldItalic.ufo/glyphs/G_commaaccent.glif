@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcommaaccent" format="2">
+  <advance width="590"/>
+  <unicode hex="0122"/>
+  <anchor x="0" y="0" name="b.uni0328_1"/>
+  <anchor x="0" y="0" name="m.gravecomb_2"/>
+  <anchor x="260" y="-289" name="m.uni0326"/>
+  <outline>
+    <component base="G"/>
+    <contour>
+      <point x="234" y="-289" type="line"/>
+      <point x="293.603" y="-255.887"/>
+      <point x="350.622" y="-176.299"/>
+      <point x="350.622" y="-110.362" type="curve" smooth="yes"/>
+      <point x="350.622" y="-69.8965"/>
+      <point x="329.147" y="-49"/>
+      <point x="297.515" y="-49" type="curve" smooth="yes" name="n06"/>
+      <point x="255.04" y="-49"/>
+      <point x="220.275" y="-86.6787"/>
+      <point x="220.275" y="-123.166" type="curve" smooth="yes"/>
+      <point x="220.275" y="-151.162"/>
+      <point x="241.166" y="-174"/>
+      <point x="280" y="-174" type="curve" name="n12"/>
+      <point x="274.502" y="-205.615"/>
+      <point x="237.661" y="-238.034"/>
+      <point x="211" y="-255" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d8429c98cbffc50909598d1f84c05f9d63879e411399cc968f1d70037234beb4b3e160a344dbead2f4c3418079b8140a08020f2e12df6be0d20a5b04ad5fc8df</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -174 125</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron" format="2">
+  <advance width="583"/>
+  <unicode hex="0158"/>
+  <outline>
+    <component base="R"/>
+    <contour>
+      <point x="345.333" y="762" type="line" name="n00"/>
+      <point x="425.333" y="762" type="line"/>
+      <point x="555.333" y="893.333" type="line"/>
+      <point x="480.333" y="893.333" type="line"/>
+      <point x="397.333" y="826.667" type="line"/>
+      <point x="337" y="893.333" type="line" name="n05"/>
+      <point x="262" y="893.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w583m345.33,762l425.33,762l555.33,893.33l480.33,893.33l397.33,826.67l337,893.33l262,893.33</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 762 131.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

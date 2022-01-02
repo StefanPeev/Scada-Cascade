@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotaccent" format="2">
+  <advance width="520"/>
+  <unicode hex="0116"/>
+  <outline>
+    <contour>
+      <point x="410" y="760" type="curve" smooth="yes" name="n00"/>
+      <point x="450" y="760"/>
+      <point x="490" y="795"/>
+      <point x="498" y="835" type="curve" smooth="yes"/>
+      <point x="506" y="875"/>
+      <point x="477" y="910"/>
+      <point x="437" y="910" type="curve" smooth="yes" name="n06"/>
+      <point x="397" y="910"/>
+      <point x="356" y="875"/>
+      <point x="348" y="835" type="curve" smooth="yes"/>
+      <point x="341" y="795"/>
+      <point x="370" y="760"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line" name="n12"/>
+      <point x="480" y="0" type="line" name="n13"/>
+      <point x="495" y="90" type="line" name="n14"/>
+      <point x="215" y="90" type="line"/>
+      <point x="256" y="320" type="line" name="n16"/>
+      <point x="476" y="320" type="line"/>
+      <point x="492" y="410" type="line"/>
+      <point x="272" y="410" type="line" name="n19"/>
+      <point x="307" y="610" type="line"/>
+      <point x="587" y="610" type="line" name="n21"/>
+      <point x="603" y="700" type="line" name="n22"/>
+      <point x="183" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>862f87c8f6ffe65dcc302bb30e712b20fd653d20cc4b9b1e88c6021590745a670cbb1d3b46bfcc27ec5629d6519c440a9ab4bcfb0970e8c500372bae884924e1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 90</string>
+          <string>hstem 320 90</string>
+          <string>hstem 610 90</string>
+          <string>hstem 760 150</string>
+          <string>vstem 60 543</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

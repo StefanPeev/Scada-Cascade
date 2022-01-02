@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0497" format="2">
+  <advance width="740"/>
+  <unicode hex="0497"/>
+  <anchor x="0" y="0" name="b.uni0326_2"/>
+  <anchor x="0" y="0" name="b.uni0328_3"/>
+  <anchor x="0" y="0" name="b.uni0335_1"/>
+  <anchor x="430" y="500" name="m.gravecomb"/>
+  <outline>
+    <component base="uni0436"/>
+    <contour>
+      <point x="599.176" y="-6" type="line"/>
+      <point x="580" y="-140" type="line"/>
+      <point x="655" y="-140" type="line"/>
+      <point x="690" y="0" type="line"/>
+      <point x="691" y="65" type="line"/>
+      <point x="686" y="65" type="line"/>
+    </contour>
+  </outline>
+</glyph>

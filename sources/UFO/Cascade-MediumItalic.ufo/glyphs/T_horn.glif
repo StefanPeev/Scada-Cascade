@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+  <advance width="625"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="59.3333" y="-20" type="line"/>
+      <point x="172.667" y="-20" type="line"/>
+      <point x="186" y="56.6667" type="line" name="n02"/>
+      <point x="269.333" y="56.6667" type="line" smooth="yes"/>
+      <point x="459" y="56.6667"/>
+      <point x="585.667" y="164"/>
+      <point x="617.667" y="350" type="curve" smooth="yes"/>
+      <point x="650.333" y="536"/>
+      <point x="562.667" y="643.333"/>
+      <point x="372.667" y="643.333" type="curve" smooth="yes"/>
+      <point x="289.333" y="643.333" type="line" name="n10"/>
+      <point x="302.667" y="720" type="line"/>
+      <point x="189.333" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="199.333" y="133.333" type="line" name="n13"/>
+      <point x="276" y="566.667" type="line" name="n14"/>
+      <point x="359.333" y="566.667" type="line" smooth="yes"/>
+      <point x="468.333" y="566.667"/>
+      <point x="530.333" y="493.333"/>
+      <point x="504.333" y="350" type="curve"/>
+      <point x="479.667" y="206.667"/>
+      <point x="393.333" y="133.333"/>
+      <point x="282.667" y="133.333" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>64dba9d299ca6606efbd5a5ebf31902639c651d698f6e65619dfb332f1469d19dd764025271f9f41a16bee65fcfe678db535b2aa66e52e57a1962e1db6d81eb1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 56.67 76.67</string>
+          <string>hstem 566.67 76.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

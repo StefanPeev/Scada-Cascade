@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B6" format="2">
+  <advance width="610"/>
+  <unicode hex="04B6"/>
+  <anchor x="0" y="0" name="b.uni0326_2"/>
+  <anchor x="0" y="0" name="b.uni0328_3"/>
+  <anchor x="308.333" y="293" name="b.uni0335_1"/>
+  <anchor x="384.667" y="700" name="m.gravecomb"/>
+  <outline>
+    <component base="uni0427"/>
+    <contour>
+      <point x="456.667" y="0" type="line" name="n00"/>
+      <point x="447.333" y="-150" type="line" name="hr01"/>
+      <point x="535.667" y="-150" type="line" name="n02"/>
+      <point x="575" y="76.6667" type="line"/>
+      <point x="509.667" y="76.6667" type="line" name="n04"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w610m456.67,0l447.33,-150l535.67,-150l575,76.67l509.67,76.67</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 76.67</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -150 226.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 76.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>n00</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

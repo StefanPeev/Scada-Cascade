@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ugrave" format="2">
+  <advance width="620"/>
+  <unicode hex="00D9"/>
+  <outline>
+    <contour>
+      <point x="394" y="730" type="line"/>
+      <point x="459" y="730" type="line" name="n01"/>
+      <point x="441" y="880" type="line" name="n02"/>
+      <point x="331" y="880" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="-10" type="curve" smooth="yes" name="n04"/>
+      <point x="428" y="-10"/>
+      <point x="521" y="69"/>
+      <point x="548" y="220" type="curve" smooth="yes"/>
+      <point x="633" y="700" type="line" name="n08"/>
+      <point x="533" y="700" type="line"/>
+      <point x="448" y="220" type="line" smooth="yes"/>
+      <point x="429" y="109"/>
+      <point x="371" y="60"/>
+      <point x="295" y="60" type="curve" smooth="yes" name="n13"/>
+      <point x="219" y="60"/>
+      <point x="179" y="109"/>
+      <point x="198" y="220" type="curve" smooth="yes"/>
+      <point x="283" y="700" type="line"/>
+      <point x="183" y="700" type="line"/>
+      <point x="98" y="220" type="line" smooth="yes"/>
+      <point x="71" y="69"/>
+      <point x="138" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>91be78c18ec22aef57383f8602d11983a45fede4285a0eba3b0f43675a0f72f1e59badbdcd7953556979d036ff938d182488a05f1ca8946c6710caca1bedb9c0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 70</string>
+          <string>hstem 700 -20</string>
+          <string>hstem 730 150</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

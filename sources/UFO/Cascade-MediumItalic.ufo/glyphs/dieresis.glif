@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="322"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="144.333" y="566.667" type="curve" smooth="yes" name="n00"/>
+      <point x="177.667" y="566.667"/>
+      <point x="208.667" y="593"/>
+      <point x="215" y="626.667" type="curve" smooth="yes"/>
+      <point x="220.667" y="660.333"/>
+      <point x="199.667" y="686.667"/>
+      <point x="166" y="686.667" type="curve" smooth="yes" name="n06"/>
+      <point x="132.333" y="686.667"/>
+      <point x="101" y="660.333"/>
+      <point x="95" y="626.667" type="curve"/>
+      <point x="88" y="593"/>
+      <point x="110.667" y="566.667"/>
+    </contour>
+    <contour>
+      <point x="326" y="566.667" type="curve" smooth="yes"/>
+      <point x="359.333" y="566.667"/>
+      <point x="390.333" y="593"/>
+      <point x="396.667" y="626.667" type="curve" smooth="yes"/>
+      <point x="402.333" y="660.333"/>
+      <point x="381.333" y="686.667"/>
+      <point x="347.667" y="686.667" type="curve" smooth="yes"/>
+      <point x="314" y="686.667"/>
+      <point x="282.667" y="660.333"/>
+      <point x="276.667" y="626.667" type="curve"/>
+      <point x="269.667" y="593"/>
+      <point x="292.333" y="566.667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3ed8dbd702db4654d54e6b89bb5ef48542ba83ef9945ffcf533da4008a3d39f16a22d56b20d9f6797d1b8174b63376d77f7305056a669da3fdae4a3a3f41b3c4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 566.67 120</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

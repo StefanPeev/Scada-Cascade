@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0308" format="2">
+  <unicode hex="0308"/>
+  <anchor x="-115" y="500" name="_m.gravecomb"/>
+  <anchor x="-115" y="500" name="_m.gravecomb_2"/>
+  <anchor x="-115" y="500" name="_t.gravecomb"/>
+  <anchor x="-78" y="710" name="t.gravecomb"/>
+  <outline>
+    <contour>
+      <point x="-200" y="570" type="curve" smooth="yes" name="n00"/>
+      <point x="-164" y="570"/>
+      <point x="-123" y="603"/>
+      <point x="-118" y="640" type="curve"/>
+      <point x="-111" y="677"/>
+      <point x="-138" y="710"/>
+      <point x="-175" y="710" type="curve" smooth="yes" name="n06"/>
+      <point x="-212" y="710"/>
+      <point x="-250" y="677"/>
+      <point x="-258" y="640" type="curve" smooth="yes"/>
+      <point x="-265" y="603"/>
+      <point x="-237" y="570"/>
+    </contour>
+    <contour>
+      <point x="-5" y="570" type="curve" smooth="yes"/>
+      <point x="31" y="570"/>
+      <point x="72" y="603"/>
+      <point x="77" y="640" type="curve"/>
+      <point x="84" y="677"/>
+      <point x="57" y="710"/>
+      <point x="20" y="710" type="curve" smooth="yes"/>
+      <point x="-17" y="710"/>
+      <point x="-55" y="677"/>
+      <point x="-63" y="640" type="curve" smooth="yes"/>
+      <point x="-70" y="603"/>
+      <point x="-42" y="570"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7f03585081bc5ac1fb68fd35eb8c2b410c4737b23b77797a61faaa9535acd6b4d418b4c48f8b0bb2d1136e9a055b8bb48c57656d3f8ccaaa20772e652a0803c6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 570 140</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="2">
+  <advance width="627"/>
+  <unicode hex="016A"/>
+  <outline>
+    <contour>
+      <point x="285.667" y="773.333" type="line" name="n00"/>
+      <point x="562.333" y="773.333" type="line"/>
+      <point x="575.667" y="850" type="line"/>
+      <point x="299" y="850" type="line" name="n03"/>
+    </contour>
+    <contour>
+      <point x="286.333" y="-10" type="curve" smooth="yes" name="n04"/>
+      <point x="435" y="-10"/>
+      <point x="531.667" y="72.3333"/>
+      <point x="558.667" y="223.333" type="curve" smooth="yes"/>
+      <point x="643" y="700" type="line" name="n08"/>
+      <point x="529.667" y="700" type="line"/>
+      <point x="445.333" y="223.333" type="line" smooth="yes"/>
+      <point x="426.333" y="114.333"/>
+      <point x="370.333" y="66.6667"/>
+      <point x="299.667" y="66.6667" type="curve" smooth="yes" name="n13"/>
+      <point x="229" y="66.6667"/>
+      <point x="189.667" y="114.333"/>
+      <point x="208.667" y="223.333" type="curve" smooth="yes"/>
+      <point x="293" y="700" type="line"/>
+      <point x="179.667" y="700" type="line"/>
+      <point x="95.3333" y="223.333" type="line" smooth="yes"/>
+      <point x="68.3333" y="72.3333"/>
+      <point x="137.667" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e6259d6b6e4e2b2828e44b2df151dfd6fb73dcf6517f547fb1f0f80cf0d4daba616144b8c2f6b408b192663436781d37339da9796f12470ad6ad93c766318378</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 76.67</string>
+          <string>hstem 700 -20</string>
+          <string>hstem 773.33 76.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

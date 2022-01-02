@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044E" format="2">
+  <advance width="727"/>
+  <unicode hex="044E"/>
+  <outline>
+    <contour>
+      <point x="443" y="-10" type="curve" smooth="yes" name="n00"/>
+      <point x="568.667" y="-10"/>
+      <point x="667.333" y="75"/>
+      <point x="699" y="250" type="curve"/>
+      <point x="728" y="425"/>
+      <point x="659.667" y="510"/>
+      <point x="534" y="510" type="curve" smooth="yes" name="n06"/>
+      <point x="416.667" y="510"/>
+      <point x="322.667" y="436.333"/>
+      <point x="286.333" y="293.333" type="curve"/>
+      <point x="213" y="293.333" type="line" name="n10"/>
+      <point x="249.667" y="500" type="line" name="n11"/>
+      <point x="136.333" y="500" type="line"/>
+      <point x="48.3333" y="0" type="line" name="n13"/>
+      <point x="161.667" y="0" type="line"/>
+      <point x="199.333" y="216.667" type="line" name="n15"/>
+      <point x="272.667" y="216.667" type="line"/>
+      <point x="258.333" y="68.3333"/>
+      <point x="321.333" y="-10" name="hr02"/>
+    </contour>
+    <contour>
+      <point x="456.333" y="66.6667" type="curve" smooth="yes" name="n19"/>
+      <point x="404.333" y="66.6667"/>
+      <point x="368.333" y="111.667"/>
+      <point x="392.333" y="250" type="curve" smooth="yes"/>
+      <point x="416.333" y="388.333"/>
+      <point x="469" y="433.333"/>
+      <point x="521" y="433.333" type="curve" smooth="yes" name="n25"/>
+      <point x="572.333" y="433.333"/>
+      <point x="609.667" y="388.333"/>
+      <point x="585.667" y="250" type="curve" smooth="yes"/>
+      <point x="561.667" y="111.667"/>
+      <point x="507.333" y="66.6667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>af927fde888ee42fc663fcd429bdd80710207683efeabb55cd1cabde2dca387a830330bcb751aa2d250c39c8682a92ae805505fcd3f9524e4737e421a8da74a5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 76.67</string>
+          <string>hstem 433.33 76.67</string>
+          <string>hstem 216.67 76.67</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 500 -20</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 216.67 76.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>n11</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 76.67</string>
+          <string>hstem 433.33 76.67</string>
+          <string>hstem 216.67 76.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

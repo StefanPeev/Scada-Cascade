@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni041A.loclBGR" format="2">
+  <advance width="565"/>
+  <outline>
+    <contour>
+      <point x="63.3333" y="0" type="line" name="n00"/>
+      <point x="176.667" y="0" type="line"/>
+      <point x="236.667" y="343.333" type="line"/>
+      <point x="398.333" y="0" type="line"/>
+      <point x="528.333" y="0" type="line"/>
+      <point x="356.667" y="361.667" type="line"/>
+      <point x="639.667" y="700" type="line" name="n06"/>
+      <point x="511.333" y="700" type="line"/>
+      <point x="242.667" y="376.667" type="line"/>
+      <point x="299.667" y="700" type="line"/>
+      <point x="186.333" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w565m63.33,0l176.67,0l236.67,343.33l398.33,0l528.33,0l356.67,361.67l639.67,700l511.33,700l242.67,376.67l299.67,700l186.33,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 63.33 576.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

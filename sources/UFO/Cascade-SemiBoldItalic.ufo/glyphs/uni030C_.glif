@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030C" format="2">
+  <unicode hex="030C"/>
+  <anchor x="-102.667" y="500" name="_m.gravecomb"/>
+  <anchor x="-102.667" y="500" name="_m.gravecomb_2"/>
+  <anchor x="-102.667" y="500" name="_t.gravecomb"/>
+  <anchor x="-57.6667" y="696.667" name="t.gravecomb"/>
+  <outline>
+    <contour>
+      <point x="-138" y="564" type="line" name="n00"/>
+      <point x="-48" y="564" type="line"/>
+      <point x="84" y="696.667" type="line" name="n02"/>
+      <point x="-1" y="696.667" type="line"/>
+      <point x="-81" y="628.333" type="line"/>
+      <point x="-137.667" y="696.667" type="line" name="n05"/>
+      <point x="-222.667" y="696.667" type="line" name="n06"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-138,564l-48,564l84,696.67l-1,696.67l-81,628.33l-137.67,696.67l-222.67,696.67</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 564 132.67</string>
+          <string>vstem -222.67 306.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

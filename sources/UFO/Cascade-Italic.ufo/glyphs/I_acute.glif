@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute" format="2">
+  <advance width="277"/>
+  <unicode hex="00CD"/>
+  <anchor x="165" y="0" name="b.uni0328_1"/>
+  <anchor x="237" y="700" name="m.gravecomb_2"/>
+  <anchor x="114" y="0" name="m.uni0326"/>
+  <outline>
+    <contour>
+      <point x="208" y="750" type="line"/>
+      <point x="273" y="750" type="line" name="n01"/>
+      <point x="390" y="900" type="line" name="n02"/>
+      <point x="280" y="900" type="line" name="n03"/>
+    </contour>
+    <contour>
+      <point x="65" y="0" type="line" name="n04"/>
+      <point x="165" y="0" type="line"/>
+      <point x="288" y="700" type="line" name="n06"/>
+      <point x="188" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w277m208,750l273,750l390,900l280,900m65,0l165,0l288,700l188,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+          <string>hstem 750 150</string>
+          <string>vstem 65 325</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

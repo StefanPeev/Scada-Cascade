@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute" format="2">
+  <advance width="565"/>
+  <unicode hex="0144"/>
+  <outline>
+    <contour>
+      <point x="306" y="550" type="line"/>
+      <point x="381" y="550" type="line" name="n01"/>
+      <point x="504.667" y="700" type="line"/>
+      <point x="378" y="700" type="line" name="n03"/>
+    </contour>
+    <contour>
+      <point x="46.6667" y="0" type="line" name="n04"/>
+      <point x="173.333" y="0" type="line"/>
+      <point x="236.667" y="361.667" type="line"/>
+      <point x="245.667" y="372.667"/>
+      <point x="255.667" y="382.667"/>
+      <point x="266.333" y="391.667" type="curve" smooth="yes"/>
+      <point x="284.667" y="406.667"/>
+      <point x="310" y="421.667"/>
+      <point x="339" y="421.667" type="curve" smooth="yes" name="n12"/>
+      <point x="387.667" y="421.667"/>
+      <point x="414.667" y="388.667"/>
+      <point x="403.667" y="326.667" type="curve" smooth="yes"/>
+      <point x="346.667" y="0" type="line"/>
+      <point x="473.333" y="0" type="line"/>
+      <point x="530.333" y="326.667" type="line" smooth="yes"/>
+      <point x="550.667" y="440.667" name="hr01"/>
+      <point x="493" y="510" name="hr02"/>
+      <point x="379" y="510" type="curve" smooth="yes" name="n21"/>
+      <point x="332" y="510"/>
+      <point x="294.667" y="492"/>
+      <point x="269" y="475" type="curve"/>
+      <point x="253.667" y="464"/>
+      <point x="239.667" y="453"/>
+      <point x="228.667" y="440" type="curve" name="hr03"/>
+      <point x="223.667" y="440" type="line" name="n28"/>
+      <point x="224.667" y="500" type="line" name="n29"/>
+      <point x="134.667" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>039ad826f157a346a4aed50a57afb54b1732edbf59adf79aa3f1e341fad0c08c1d87a8485fb25a240fa70d0766ddc81fdf8fa7d94bf974aff4aeee69d9653f7f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 550 150</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 421.67 88.33</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 440 60</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 550 150</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 421.67 88.33</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 550 150</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 440 60</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 550 150</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

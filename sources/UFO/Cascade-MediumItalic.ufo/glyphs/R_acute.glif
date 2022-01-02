@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Racute" format="2">
+  <advance width="583"/>
+  <unicode hex="0154"/>
+  <outline>
+    <component base="R"/>
+    <contour>
+      <point x="341" y="750" type="line"/>
+      <point x="411" y="750" type="line" name="n01"/>
+      <point x="531.333" y="900" type="line"/>
+      <point x="413" y="900" type="line" name="n03"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w583m341,750l411,750l531.33,900l413,900</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 750 150</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

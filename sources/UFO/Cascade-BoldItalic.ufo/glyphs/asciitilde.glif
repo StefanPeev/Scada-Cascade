@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="2">
+  <advance width="498"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="358" y="225" type="curve" smooth="yes" name="n00"/>
+      <point x="418" y="225"/>
+      <point x="483" y="284"/>
+      <point x="512" y="340" type="curve" name="n03"/>
+      <point x="448" y="405" type="line"/>
+      <point x="439" y="405" type="line"/>
+      <point x="440" y="405"/>
+      <point x="399" y="345"/>
+      <point x="359" y="345" type="curve" smooth="yes" name="n08"/>
+      <point x="303" y="345"/>
+      <point x="293" y="415" name="hr01"/>
+      <point x="202" y="415" type="curve" smooth="yes" name="n11"/>
+      <point x="143" y="415"/>
+      <point x="76" y="356"/>
+      <point x="47" y="300" type="curve" name="n14"/>
+      <point x="112" y="235" type="line"/>
+      <point x="121" y="235" type="line"/>
+      <point x="120" y="235"/>
+      <point x="161" y="295"/>
+      <point x="201" y="295" type="curve" smooth="yes" name="n19"/>
+      <point x="257" y="295"/>
+      <point x="267" y="225" name="hr02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>572b7ca543df3fe90592e5d65bcd0f359c0e50abb48f851e44abe1128d3b161afbeeadea227ce5e68afb3f9b9f36042c8a2441565497433db0f3e0d3e12196be</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 225 120</string>
+          <string>vstem 47 465</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 295 120</string>
+          <string>vstem 47 465</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 225 120</string>
+          <string>vstem 47 465</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

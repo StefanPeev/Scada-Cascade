@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="500"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="46.6667" y="0" type="line" name="n00"/>
+      <point x="173.333" y="0" type="line"/>
+      <point x="215.333" y="240" type="line"/>
+      <point x="326.667" y="0" type="line"/>
+      <point x="468.333" y="0" type="line"/>
+      <point x="336.667" y="260" type="line"/>
+      <point x="546.333" y="500" type="line" name="n06"/>
+      <point x="404.667" y="500" type="line"/>
+      <point x="222.333" y="280" type="line"/>
+      <point x="261.333" y="500" type="line"/>
+      <point x="171.333" y="500" type="line"/>
+      <point x="128" y="463.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w500m46.67,0l173.33,0l215.33,240l326.67,0l468.33,0l336.67,260l546.33,500l404.67,500l222.33,280l261.33,500l171.33,500l128,463.33</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 500 -20</string>
+          <string>vstem 46.67 499.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

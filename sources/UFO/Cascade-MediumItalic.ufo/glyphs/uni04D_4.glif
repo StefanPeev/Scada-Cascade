@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04D4" format="2">
+  <advance width="825"/>
+  <unicode hex="04D4"/>
+  <outline>
+    <contour>
+      <point x="-46.6667" y="0" type="line" name="n00"/>
+      <point x="66.6667" y="0" type="line"/>
+      <point x="184.333" y="196.667" type="line"/>
+      <point x="406" y="196.667" type="line" name="n03"/>
+      <point x="371.667" y="0" type="line"/>
+      <point x="771.667" y="0" type="line" name="n05"/>
+      <point x="784.667" y="76.6667" type="line" name="n06"/>
+      <point x="498" y="76.6667" type="line"/>
+      <point x="542.333" y="326.667" type="line" name="n08"/>
+      <point x="769" y="326.667" type="line"/>
+      <point x="782.333" y="403.333" type="line"/>
+      <point x="555.667" y="403.333" type="line" name="n11"/>
+      <point x="594.667" y="623.333" type="line"/>
+      <point x="881.333" y="623.333" type="line" name="n13"/>
+      <point x="894.667" y="700" type="line" name="n14"/>
+      <point x="371.333" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="273.333" type="line"/>
+      <point x="438" y="623.333" type="line"/>
+      <point x="481.333" y="623.333" type="line"/>
+      <point x="419.333" y="273.333" type="line" name="n19"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e25797b75d117fbdbab2b0f9aa4171b6a24be8559756bd61a7d978449cda281719ae428a800c33972f047def77c94a976942ff947b29df7378b0d44b7c2e76b0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 76.67</string>
+          <string>hstem 196.67 76.67</string>
+          <string>hstem 326.67 76.67</string>
+          <string>hstem 623.33 76.67</string>
+          <string>vstem -46.67 941.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0437.loclBGR" format="2">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="341.053" y="146.667" type="curve"/>
+      <point x="384.13" y="159.333"/>
+      <point x="426.694" y="199.333"/>
+      <point x="435.51" y="253.667" type="curve"/>
+      <point x="436.672" y="284.254"/>
+      <point x="424.61" y="308.418"/>
+      <point x="404.944" y="319.424" type="curve" name="n06"/>
+      <point x="428.61" y="373.949"/>
+      <point x="409.639" y="433"/>
+      <point x="321.985" y="455" type="curve" name="n09"/>
+      <point x="285.318" y="458.333"/>
+      <point x="254.79" y="453"/>
+      <point x="232.713" y="448.333" type="curve" name="n12"/>
+      <point x="219.89" y="468"/>
+      <point x="191.499" y="482.667"/>
+      <point x="140.774" y="476.667" type="curve"/>
+      <point x="126.406" y="465.537"/>
+      <point x="125.727" y="425.845"/>
+      <point x="118.037" y="414" type="curve"/>
+      <point x="112.93" y="411.333" name="hr02"/>
+      <point x="112.014" y="408.333"/>
+      <point x="108.37" y="405" type="curve" name="n21"/>
+      <point x="115.738" y="406.636"/>
+      <point x="128.607" y="397.856"/>
+      <point x="138.055" y="398.333" type="curve"/>
+      <point x="152.44" y="405.667"/>
+      <point x="174.371" y="411.667" name="hr04"/>
+      <point x="201.072" y="411.667" type="curve" name="n27"/>
+      <point x="238.689" y="414.333"/>
+      <point x="257.041" y="402.739"/>
+      <point x="261.374" y="380.071" type="curve" name="n30"/>
+      <point x="268.708" y="379.283"/>
+      <point x="278.575" y="378.476"/>
+      <point x="289.335" y="373.333" type="curve"/>
+      <point x="305.966" y="346.667"/>
+      <point x="292.422" y="304"/>
+      <point x="258.422" y="288.333" type="curve"/>
+      <point x="249.945" y="285.333"/>
+      <point x="211.825" y="282"/>
+      <point x="201.088" y="278.333" type="curve" name="n39"/>
+      <point x="196.955" y="255.016"/>
+      <point x="176.101" y="194.252"/>
+      <point x="154.176" y="183.333" type="curve" name="n42"/>
+      <point x="156.509" y="183.333" type="line"/>
+      <point x="201.695" y="178.237"/>
+      <point x="222.845" y="149.145" name="hr05"/>
+      <point x="222" y="99.6634" type="curve" name="n46"/>
+      <point x="226.103" y="90.048"/>
+      <point x="243.858" y="79.0926"/>
+      <point x="247.051" y="66.6667" type="curve"/>
+      <point x="259.782" y="27.3333"/>
+      <point x="243.26" y="-42.3333"/>
+      <point x="189.927" y="-62" type="curve" name="n52"/>
+      <point x="163.26" y="-65.6667"/>
+      <point x="148.652" y="-63.3333"/>
+      <point x="135.278" y="-60" type="curve"/>
+      <point x="123.984" y="-78.6667"/>
+      <point x="104.473" y="-104.667"/>
+      <point x="60.9623" y="-100" type="curve"/>
+      <point x="47.8432" y="-100"/>
+      <point x="36.946" y="-96.3333"/>
+      <point x="28.9623" y="-92.6667" type="curve"/>
+      <point x="17.9055" y="-99.8847"/>
+      <point x="-11.9914" y="-133.054"/>
+      <point x="-20.7747" y="-138.333" type="curve"/>
+      <point x="-12.3407" y="-144.333"/>
+      <point x="-4.28997" y="-150.333"/>
+      <point x="6.95315" y="-155" type="curve"/>
+      <point x="25.4303" y="-166.269"/>
+      <point x="38.8772" y="-187.063"/>
+      <point x="74.681" y="-191.667" type="curve" name="n70"/>
+      <point x="209.681" y="-195.333"/>
+      <point x="257.412" y="-99.6667"/>
+      <point x="272.384" y="-47.6667" type="curve"/>
+      <point x="284.114" y="-40.9681"/>
+      <point x="297.026" y="-33.2366"/>
+      <point x="315.36" y="-21.8376" type="curve" name="n76"/>
+      <point x="374.026" y="18.0816"/>
+      <point x="384.076" y="96.9239"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4ff84078d61c3a5fc76aaeaef7b5773a37862431f255ddc8e4a089fb7551068c59cce6a027bd61b7f75db1f1fa8de8d4bafda207144c2bcc429dd15dd9175923</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 261.37 143.57</string>
+          <string>hstem 411.67 43.33</string>
+          <string>hstem -191.67 129.67</string>
+          <string>hstem 183.33 95</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 405 43.33</string>
+          <string>hstem -191.67 129.67</string>
+          <string>hstem 183.33 95</string>
+          <string>vstem 222 93.36</string>
+        </array>
+        <key>pointTag</key>
+        <string>n12</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 411.67 43.33</string>
+          <string>hstem -191.67 129.67</string>
+          <string>hstem 183.33 95</string>
+          <string>vstem 222 93.36</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 405 43.33</string>
+          <string>hstem -191.67 129.67</string>
+          <string>hstem 183.33 95</string>
+          <string>vstem 222 93.36</string>
+        </array>
+        <key>pointTag</key>
+        <string>n21</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 411.67 43.33</string>
+          <string>vstem 261.37 143.57</string>
+          <string>hstem 183.33 95</string>
+          <string>hstem -191.67 129.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr04</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 222 93.36</string>
+          <string>hstem -191.67 129.67</string>
+          <string>hstem 183.33 95</string>
+          <string>hstem 405 43.33</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr05</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

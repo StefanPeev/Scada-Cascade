@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni041E" format="2">
+  <advance width="630"/>
+  <unicode hex="041E"/>
+  <anchor x="0" y="0" name="b.uni0326_2"/>
+  <anchor x="0" y="0" name="b.uni0328_3"/>
+  <anchor x="342" y="350" name="b.uni0335_1"/>
+  <anchor x="414" y="700" name="m.gravecomb"/>
+  <outline>
+    <contour>
+      <point x="288" y="-10" type="curve" smooth="yes" name="n00"/>
+      <point x="448" y="-10"/>
+      <point x="571" y="95"/>
+      <point x="616" y="350" type="curve" smooth="yes"/>
+      <point x="661" y="605"/>
+      <point x="574" y="710"/>
+      <point x="415" y="710" type="curve" smooth="yes" name="n06"/>
+      <point x="255" y="710"/>
+      <point x="131" y="605"/>
+      <point x="86" y="350" type="curve" smooth="yes"/>
+      <point x="41" y="95"/>
+      <point x="128" y="-10"/>
+    </contour>
+    <contour>
+      <point x="304" y="80" type="curve" smooth="yes" name="n12"/>
+      <point x="240" y="80"/>
+      <point x="189" y="139"/>
+      <point x="226" y="350" type="curve" smooth="yes"/>
+      <point x="263" y="561"/>
+      <point x="334" y="620"/>
+      <point x="399" y="620" type="curve" smooth="yes" name="n18"/>
+      <point x="464" y="620"/>
+      <point x="513" y="561"/>
+      <point x="476" y="350" type="curve" smooth="yes"/>
+      <point x="439" y="139"/>
+      <point x="369" y="80"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>253724508d6cca63f5d4140c2276407c1b0cf50e6baa575727b66e51851882f1f130f52fbce45e35e477875350463ebfdb61b0945c8ad986189eae660b318e66</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 90</string>
+          <string>hstem 620 90</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

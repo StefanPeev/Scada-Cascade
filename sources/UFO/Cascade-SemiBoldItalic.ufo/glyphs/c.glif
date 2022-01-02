@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c" format="2">
+  <advance width="468"/>
+  <unicode hex="0063"/>
+  <outline>
+    <contour>
+      <point x="253" y="-10" type="curve" smooth="yes" name="n00"/>
+      <point x="304" y="-10"/>
+      <point x="347.333" y="2"/>
+      <point x="379" y="15.6667" type="curve"/>
+      <point x="397.667" y="23"/>
+      <point x="414.667" y="32"/>
+      <point x="430.333" y="41.6667" type="curve"/>
+      <point x="401.667" y="115" type="line"/>
+      <point x="391.667" y="115" type="line"/>
+      <point x="381.667" y="107.333"/>
+      <point x="370.333" y="100.333"/>
+      <point x="358" y="94" type="curve" smooth="yes"/>
+      <point x="337" y="83"/>
+      <point x="309.333" y="73.3333"/>
+      <point x="277.667" y="73.3333" type="curve" smooth="yes" name="n14"/>
+      <point x="201.333" y="73.3333"/>
+      <point x="165" y="116.667"/>
+      <point x="189" y="250" type="curve" smooth="yes"/>
+      <point x="213" y="383.333"/>
+      <point x="263.333" y="426.667"/>
+      <point x="330" y="426.667" type="curve" smooth="yes" name="n20"/>
+      <point x="361.667" y="426.667"/>
+      <point x="386" y="416.667"/>
+      <point x="403" y="405.667" type="curve" smooth="yes"/>
+      <point x="412.667" y="399.333"/>
+      <point x="421.667" y="392.333"/>
+      <point x="429.333" y="385" type="curve"/>
+      <point x="439.333" y="385" type="line"/>
+      <point x="494" y="458.333" type="line"/>
+      <point x="481.333" y="467.667"/>
+      <point x="467.333" y="476.667"/>
+      <point x="451" y="484" type="curve" smooth="yes"/>
+      <point x="423.333" y="497"/>
+      <point x="385" y="510"/>
+      <point x="334" y="510" type="curve" smooth="yes" name="n34"/>
+      <point x="191.667" y="510"/>
+      <point x="93.3333" y="426"/>
+      <point x="62.3333" y="250" type="curve" smooth="yes"/>
+      <point x="31.3333" y="74"/>
+      <point x="100.333" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c7cafce8da1b3a22ce7d8148b2ae4849e475fe1639f1e744c3786c859bb07e4d3a617c2057b78c64844890fc35b769fab67d83ac2e6671288302277cb7a0d376</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 83.33</string>
+          <string>hstem 426.67 83.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

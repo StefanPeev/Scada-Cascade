@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04DD" format="2">
+  <advance width="750"/>
+  <unicode hex="04DD"/>
+  <anchor x="0" y="0" name="b.uni0326_2"/>
+  <anchor x="0" y="0" name="b.uni0328_3"/>
+  <anchor x="0" y="0" name="b.uni0335_1"/>
+  <anchor x="468.667" y="686.667" name="m.gravecomb"/>
+  <outline>
+    <component base="uni0436"/>
+    <contour>
+      <point x="356.667" y="566.667" type="curve" smooth="yes" name="n00"/>
+      <point x="394.003" y="566.667"/>
+      <point x="428.254" y="600.066"/>
+      <point x="428.254" y="637.443" type="curve" smooth="yes"/>
+      <point x="428.254" y="665.779"/>
+      <point x="408.31" y="686.667"/>
+      <point x="378.333" y="686.667" type="curve" smooth="yes" name="n06"/>
+      <point x="339.988" y="686.667"/>
+      <point x="306.044" y="652.746"/>
+      <point x="306.044" y="616.136" type="curve" smooth="yes"/>
+      <point x="306.044" y="586.979"/>
+      <point x="327.156" y="566.667"/>
+    </contour>
+    <contour>
+      <point x="538.333" y="566.667" type="curve" smooth="yes"/>
+      <point x="575.67" y="566.667"/>
+      <point x="609.921" y="600.066"/>
+      <point x="609.921" y="637.443" type="curve" smooth="yes"/>
+      <point x="609.921" y="665.779"/>
+      <point x="589.977" y="686.667"/>
+      <point x="560" y="686.667" type="curve" smooth="yes"/>
+      <point x="521.655" y="686.667"/>
+      <point x="487.71" y="652.746"/>
+      <point x="487.71" y="616.136" type="curve" smooth="yes"/>
+      <point x="487.71" y="586.979"/>
+      <point x="508.822" y="566.667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>99f6371d74f716dbc3b89e15252dbde220ab74f8b78da35898ea91fc4198042d2c5c8afc80552703b7397350286c2e6fc7ad2edea3ae73498ec9f1fb3279309d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 566.67 120</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

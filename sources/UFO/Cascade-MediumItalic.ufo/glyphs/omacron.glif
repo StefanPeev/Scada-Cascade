@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omacron" format="2">
+  <advance width="533"/>
+  <unicode hex="014D"/>
+  <outline>
+    <contour>
+      <point x="206" y="583.333" type="line" name="n00"/>
+      <point x="482.667" y="583.333" type="line"/>
+      <point x="496" y="660" type="line"/>
+      <point x="219.333" y="660" type="line" name="n03"/>
+    </contour>
+    <contour>
+      <point x="239.667" y="-10" type="curve" smooth="yes" name="n04"/>
+      <point x="375.333" y="-10"/>
+      <point x="474" y="74.6667"/>
+      <point x="505.667" y="250" type="curve"/>
+      <point x="534.667" y="425"/>
+      <point x="465.667" y="510"/>
+      <point x="330.667" y="510" type="curve" smooth="yes" name="n10"/>
+      <point x="195" y="510"/>
+      <point x="96.6667" y="426"/>
+      <point x="65.6667" y="250" type="curve" smooth="yes"/>
+      <point x="34.6667" y="74.6667"/>
+      <point x="104" y="-10"/>
+    </contour>
+    <contour>
+      <point x="253" y="66.6667" type="curve" smooth="yes" name="n16"/>
+      <point x="192.333" y="66.6667"/>
+      <point x="155" y="113.333"/>
+      <point x="179" y="250" type="curve" smooth="yes"/>
+      <point x="203" y="386.667"/>
+      <point x="257.667" y="433.333"/>
+      <point x="317.667" y="433.333" type="curve" smooth="yes" name="n22"/>
+      <point x="377.667" y="433.333"/>
+      <point x="416.333" y="386.667"/>
+      <point x="392.333" y="250" type="curve" smooth="yes"/>
+      <point x="368.333" y="113.333"/>
+      <point x="312.333" y="66.6667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9aa11abab493d72ee6e512babbcd655198ffe3bd708e5174cfbcbd4e4093247c6d8b96c6bea353694108320869d7931650b1e8b874eda0686e1d885935d39bf6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 76.67</string>
+          <string>hstem 433.33 76.67</string>
+          <string>hstem 583.33 76.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

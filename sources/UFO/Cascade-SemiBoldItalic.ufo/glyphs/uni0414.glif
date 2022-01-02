@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0414" format="2">
+  <advance width="643"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="-44.3333" y="-150" type="line" name="n00"/>
+      <point x="56.3333" y="-150" type="line"/>
+      <point x="101.667" y="0" type="line" name="n02"/>
+      <point x="463.333" y="0" type="line"/>
+      <point x="454.667" y="-150" type="line"/>
+      <point x="551.333" y="-150" type="line"/>
+      <point x="592.333" y="83.3333" type="line"/>
+      <point x="527.333" y="83.3333" type="line"/>
+      <point x="636.333" y="700" type="line" name="n08"/>
+      <point x="234.667" y="700" type="line" name="n09"/>
+      <point x="129.333" y="243.333" type="line" smooth="yes"/>
+      <point x="115.667" y="184.667"/>
+      <point x="95" y="146"/>
+      <point x="77.3333" y="120.333" type="curve" smooth="yes"/>
+      <point x="67" y="105.333"/>
+      <point x="56.6667" y="93"/>
+      <point x="45.6667" y="83.3333" type="curve" name="n16"/>
+      <point x="-4.33333" y="83.3333" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="83.3333" type="line"/>
+      <point x="180" y="93"/>
+      <point x="190.333" y="105.333"/>
+      <point x="200.667" y="120.333" type="curve" smooth="yes"/>
+      <point x="218.333" y="146"/>
+      <point x="239" y="184.667"/>
+      <point x="252.667" y="243.333" type="curve" smooth="yes"/>
+      <point x="338.333" y="616.667" type="line" name="n25"/>
+      <point x="495" y="616.667" type="line"/>
+      <point x="400.667" y="83.3333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8e87a93118a53db5ebf249ab0407b1abaa4dfd8ad85754c704d252cb0f879ad5d4bf38edb01c24d2218bf5e4f4ebf4cb738e29c0f865bf03f2180ca10e7c501e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 83.33</string>
+          <string>hstem 616.67 83.33</string>
+          <string>vstem -44.33 680.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

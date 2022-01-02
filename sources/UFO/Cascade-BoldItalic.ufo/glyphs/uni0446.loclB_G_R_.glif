@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0446.loclBGR" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="414.575" y="-140" type="line"/>
+      <point x="428.587" y="-140"/>
+      <point x="490.278" y="-140"/>
+      <point x="519.575" y="-140" type="curve"/>
+      <point x="560.131" y="90" type="line"/>
+      <point x="513.131" y="90"/>
+      <point x="501.126" y="124"/>
+      <point x="508.179" y="164" type="curve" smooth="yes"/>
+      <point x="567.425" y="500" type="line" name="n08"/>
+      <point x="543.118" y="500"/>
+      <point x="449.822" y="500"/>
+      <point x="427.425" y="500" type="curve"/>
+      <point x="417.542" y="443.95"/>
+      <point x="375.986" y="208.278"/>
+      <point x="364.828" y="145" type="curve"/>
+      <point x="355.889" y="134"/>
+      <point x="347.126" y="124"/>
+      <point x="337.539" y="115" type="curve"/>
+      <point x="319.894" y="100"/>
+      <point x="296.249" y="85"/>
+      <point x="269.249" y="85" type="curve" smooth="yes" name="n20"/>
+      <point x="224.249" y="85"/>
+      <point x="199.539" y="115"/>
+      <point x="211" y="180" type="curve" smooth="yes"/>
+      <point x="267.425" y="500" type="line"/>
+      <point x="239.702" y="500"/>
+      <point x="154.982" y="500"/>
+      <point x="127.425" y="500" type="curve"/>
+      <point x="115.747" y="433.769"/>
+      <point x="78.56" y="222.875"/>
+      <point x="71" y="180" type="curve" smooth="yes"/>
+      <point x="49.6641" y="59"/>
+      <point x="106.498" y="-10"/>
+      <point x="227.498" y="-10" type="curve" smooth="yes" name="n33"/>
+      <point x="272.498" y="-10"/>
+      <point x="308.319" y="6"/>
+      <point x="334.669" y="25" type="curve"/>
+      <point x="349.433" y="35"/>
+      <point x="362.549" y="47"/>
+      <point x="374.841" y="60" type="curve"/>
+      <point x="379.841" y="60" type="line"/>
+      <point x="378.846" y="26"/>
+      <point x="388.261" y="0"/>
+      <point x="419.261" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>16218cb4b81c23ea899cfdaa32fb8faddf370cedafe138e566b22295ad9dc7eaac497d4675af5cdb78e00734f6559ead1936f776a5b93d6454631e5bf84230c1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 95</string>
+          <string>hstem 500 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

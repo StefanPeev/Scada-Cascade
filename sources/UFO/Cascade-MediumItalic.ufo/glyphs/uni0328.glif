@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0328" format="2">
+  <unicode hex="0328"/>
+  <anchor x="-78.3333" y="0" name="_b.uni0328_1"/>
+  <anchor x="-78.3333" y="0" name="_b.uni0328_3"/>
+  <outline>
+    <contour>
+      <point x="-144.667" y="-165" type="curve" smooth="yes" name="n00"/>
+      <point x="-119.667" y="-165"/>
+      <point x="-98.6667" y="-160"/>
+      <point x="-83.6667" y="-153" type="curve"/>
+      <point x="-74.6667" y="-150"/>
+      <point x="-67" y="-145"/>
+      <point x="-60" y="-140" type="curve"/>
+      <point x="-50" y="-83" type="line"/>
+      <point x="-59" y="-83" type="line" name="n08"/>
+      <point x="-58" y="-83"/>
+      <point x="-87" y="-105"/>
+      <point x="-117.333" y="-105" type="curve" smooth="yes" name="n11"/>
+      <point x="-139" y="-105"/>
+      <point x="-151" y="-90"/>
+      <point x="-148" y="-70" type="curve" smooth="yes"/>
+      <point x="-144.667" y="-51"/>
+      <point x="-127.667" y="-33.3333"/>
+      <point x="-111" y="-20.3333" type="curve"/>
+      <point x="-101" y="-13"/>
+      <point x="-90.6667" y="-5.66667"/>
+      <point x="-78.3333" y="0" type="curve" name="n20"/>
+      <point x="-159.667" y="0" type="line"/>
+      <point x="-171" y="-7.33333"/>
+      <point x="-180.667" y="-15.6667"/>
+      <point x="-190" y="-24.3333" type="curve"/>
+      <point x="-205.667" y="-40"/>
+      <point x="-223" y="-60.6667"/>
+      <point x="-226.333" y="-85" type="curve"/>
+      <point x="-235.333" y="-133.667"/>
+      <point x="-210" y="-165"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0c97e08d113c859195f1fb6e011505796aa1610fe268813d74efbbfda4607482db3ba8105b0e9325c7e57190ce918e2d20d8d797c593f87c6f276a022f2ad738</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -165 60</string>
+          <string>hstem -83 83</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

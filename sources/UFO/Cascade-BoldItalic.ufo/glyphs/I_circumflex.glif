@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="2">
+  <advance width="290"/>
+  <unicode hex="00CE"/>
+  <anchor x="200" y="0" name="b.uni0328_1"/>
+  <anchor x="261" y="700" name="m.gravecomb_2"/>
+  <anchor x="130" y="0" name="m.uni0326"/>
+  <outline>
+    <contour>
+      <point x="93" y="760" type="line"/>
+      <point x="188" y="760" type="line"/>
+      <point x="266" y="830" type="line"/>
+      <point x="318" y="760" type="line" name="n03"/>
+      <point x="413" y="760" type="line" name="n04"/>
+      <point x="327" y="894" type="line" name="n05"/>
+      <point x="227" y="894" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line" name="n07"/>
+      <point x="200" y="0" type="line"/>
+      <point x="323" y="700" type="line" name="n09"/>
+      <point x="183" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w290m93,760l188,760l266,830l318,760l413,760l327,894l227,894m60,0l200,0l323,700l183,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+          <string>hstem 760 134</string>
+          <string>vstem 60 353</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

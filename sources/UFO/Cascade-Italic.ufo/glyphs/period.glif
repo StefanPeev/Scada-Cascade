@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="2">
+  <advance width="200"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="23" y="50" type="curve" smooth="yes" name="n00"/>
+      <point x="16" y="15"/>
+      <point x="38" y="-10"/>
+      <point x="73" y="-10" type="curve" smooth="yes"/>
+      <point x="108" y="-10"/>
+      <point x="136" y="15"/>
+      <point x="143" y="50" type="curve" smooth="yes" name="n06"/>
+      <point x="150" y="85"/>
+      <point x="129" y="110"/>
+      <point x="94" y="110" type="curve" smooth="yes"/>
+      <point x="59" y="110"/>
+      <point x="30" y="85"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w200m23,50c16,15 38,-10 73,-10c108,-10 136,15 143,50c150,85 129,110 94,110c59,110 30,85 23,50</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 50 0</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

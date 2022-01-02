@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0306" format="2">
+  <unicode hex="0306"/>
+  <anchor x="-91" y="500" name="_m.gravecomb"/>
+  <anchor x="-91" y="500" name="_m.gravecomb_2"/>
+  <anchor x="-91" y="500" name="_t.gravecomb"/>
+  <anchor x="-56.3333" y="693.333" name="t.gravecomb"/>
+  <outline>
+    <contour>
+      <point x="-90.3333" y="560" type="curve" smooth="yes" name="n00"/>
+      <point x="13.3333" y="560"/>
+      <point x="71.3333" y="609.667"/>
+      <point x="86.6667" y="693.333" type="curve"/>
+      <point x="-10" y="693.333" type="line"/>
+      <point x="-19" y="642.333"/>
+      <point x="-41.6667" y="623.333" name="hr01"/>
+      <point x="-78.6667" y="623.333" type="curve" smooth="yes" name="n07"/>
+      <point x="-115.667" y="623.333"/>
+      <point x="-132.333" y="642.333"/>
+      <point x="-123.333" y="693.333" type="curve" name="n10"/>
+      <point x="-220" y="693.333" type="line"/>
+      <point x="-235.333" y="609.667"/>
+      <point x="-194" y="560"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>eb6f25e5512a1334d55a0b2d96a4a548447a9e2b9b74b10ae1189eaa5d12d4cac150c6fd71d8522909ac71a3fac930794d48182de91652b2376fed1b53efe3a3</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 560 133.33</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 560 63.33</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 560 63.33</string>
+        </array>
+        <key>pointTag</key>
+        <string>n10</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

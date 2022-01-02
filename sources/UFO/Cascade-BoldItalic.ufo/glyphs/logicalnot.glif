@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="2">
+  <advance width="500"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="370" y="230" type="line"/>
+      <point x="480" y="230" type="line"/>
+      <point x="514" y="420" type="line" name="n02"/>
+      <point x="84" y="420" type="line" name="n03"/>
+      <point x="66" y="320" type="line" name="n04"/>
+      <point x="386" y="320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w500m370,230l480,230l514,420l84,420l66,320l386,320</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 320 100</string>
+          <string>vstem 66 448</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

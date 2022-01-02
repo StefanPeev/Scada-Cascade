@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scommaaccent" format="2">
+  <advance width="525"/>
+  <unicode hex="0218"/>
+  <anchor x="0" y="0" name="b.uni0328_1"/>
+  <anchor x="0" y="0" name="m.gravecomb_2"/>
+  <anchor x="204" y="-279.333" name="m.uni0326"/>
+  <outline>
+    <contour>
+      <point x="219.667" y="-10" type="curve" smooth="yes" name="n00"/>
+      <point x="380.333" y="-10"/>
+      <point x="477" y="73.3333"/>
+      <point x="498" y="190" type="curve" smooth="yes"/>
+      <point x="538" y="413.333"/>
+      <point x="211" y="384"/>
+      <point x="236.333" y="530" type="curve" smooth="yes"/>
+      <point x="245.333" y="579.667"/>
+      <point x="300.333" y="626.667"/>
+      <point x="363.333" y="626.667" type="curve" smooth="yes" name="n09"/>
+      <point x="409.667" y="626.667"/>
+      <point x="443" y="614.667"/>
+      <point x="464.667" y="603.667" type="curve"/>
+      <point x="477" y="596.667"/>
+      <point x="487" y="589.667"/>
+      <point x="495.333" y="581.667" type="curve"/>
+      <point x="505.333" y="581.667" type="line"/>
+      <point x="560" y="655" type="line"/>
+      <point x="547.333" y="665"/>
+      <point x="532.333" y="674"/>
+      <point x="514" y="682" type="curve"/>
+      <point x="482.333" y="697"/>
+      <point x="435.333" y="710"/>
+      <point x="368.333" y="710" type="curve" smooth="yes" name="n23"/>
+      <point x="225" y="710"/>
+      <point x="126.667" y="626.667"/>
+      <point x="107.667" y="520" type="curve" smooth="yes"/>
+      <point x="69" y="296.667"/>
+      <point x="395.333" y="326"/>
+      <point x="369.333" y="180" type="curve" smooth="yes"/>
+      <point x="358" y="116.333"/>
+      <point x="308" y="73.3333"/>
+      <point x="224.333" y="73.3333" type="curve" smooth="yes" name="n32"/>
+      <point x="174" y="73.3333"/>
+      <point x="139.333" y="84.3333"/>
+      <point x="116" y="95.3333" type="curve"/>
+      <point x="102.667" y="102.333"/>
+      <point x="92" y="109.333"/>
+      <point x="82.3333" y="118.333" type="curve"/>
+      <point x="72.3333" y="118.333" type="line"/>
+      <point x="17" y="45" type="line"/>
+      <point x="30" y="34"/>
+      <point x="47" y="25"/>
+      <point x="66" y="17" type="curve"/>
+      <point x="99" y="2"/>
+      <point x="149.333" y="-10"/>
+    </contour>
+    <contour>
+      <point x="179.333" y="-279.333" type="line"/>
+      <point x="197" y="-269.667"/>
+      <point x="213.333" y="-257"/>
+      <point x="228" y="-241.333" type="curve"/>
+      <point x="254" y="-215"/>
+      <point x="280.333" y="-175.667"/>
+      <point x="291.333" y="-118.667" type="curve" smooth="yes" name="n52"/>
+      <point x="299" y="-74.3333"/>
+      <point x="277.333" y="-47.3333"/>
+      <point x="237" y="-47.3333" type="curve" smooth="yes" name="n55"/>
+      <point x="207.333" y="-47.3333"/>
+      <point x="176.333" y="-74"/>
+      <point x="170" y="-109" type="curve" smooth="yes" name="n58"/>
+      <point x="165" y="-140.667"/>
+      <point x="185.667" y="-167.333"/>
+      <point x="222.667" y="-167.333" type="curve" name="n61"/>
+      <point x="218.667" y="-189.333"/>
+      <point x="201.667" y="-208"/>
+      <point x="186" y="-223" type="curve" smooth="yes"/>
+      <point x="177" y="-231.667"/>
+      <point x="166.667" y="-239.333"/>
+      <point x="155.667" y="-246.333" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>29e19762d68f8ef95daf3c080ea6515d5457d0e1683fcd8cf4c2a5f030cf893520d2b910c7f4d902ea2359515f1a92fe90666e37ca31c26fe240b9bffb4ac56e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -167.33 120</string>
+          <string>hstem -10 83.33</string>
+          <string>hstem 626.67 83.33</string>
+          <string>vstem 170 121.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

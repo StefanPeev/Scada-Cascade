@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04CB" format="2">
+  <advance width="620"/>
+  <unicode hex="04CB"/>
+  <anchor x="0" y="0" name="b.uni0326_2"/>
+  <anchor x="0" y="0" name="b.uni0328_3"/>
+  <anchor x="311.667" y="291" name="b.uni0335_1"/>
+  <anchor x="390.333" y="700" name="m.gravecomb"/>
+  <outline>
+    <component base="uni0427"/>
+    <contour>
+      <point x="396.667" y="83.3333" type="line" name="n00"/>
+      <point x="331.333" y="83.3333" type="line"/>
+      <point x="290.667" y="-150" type="line"/>
+      <point x="387.333" y="-150" type="line" name="n03"/>
+      <point x="431.667" y="0" type="line" name="n04"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w620m396.67,83.33l331.33,83.33l290.67,-150l387.33,-150l431.67,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -150 233.33</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -150 233.33</string>
+        </array>
+        <key>pointTag</key>
+        <string>n04</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

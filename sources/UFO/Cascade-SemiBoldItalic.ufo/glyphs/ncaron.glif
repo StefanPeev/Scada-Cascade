@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron" format="2">
+  <advance width="565"/>
+  <unicode hex="0148"/>
+  <outline>
+    <contour>
+      <point x="310.667" y="564" type="line" name="n00"/>
+      <point x="400.667" y="564" type="line"/>
+      <point x="532.667" y="696.667" type="line"/>
+      <point x="447.667" y="696.667" type="line"/>
+      <point x="367.667" y="628.333" type="line"/>
+      <point x="311" y="696.667" type="line" name="n05"/>
+      <point x="226" y="696.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="46.6667" y="0" type="line" name="n07"/>
+      <point x="173.333" y="0" type="line"/>
+      <point x="236.667" y="361.667" type="line"/>
+      <point x="245.667" y="372.667"/>
+      <point x="255.667" y="382.667"/>
+      <point x="266.333" y="391.667" type="curve" smooth="yes"/>
+      <point x="284.667" y="406.667"/>
+      <point x="310" y="421.667"/>
+      <point x="339" y="421.667" type="curve" smooth="yes" name="n15"/>
+      <point x="387.667" y="421.667"/>
+      <point x="414.667" y="388.667"/>
+      <point x="403.667" y="326.667" type="curve" smooth="yes"/>
+      <point x="346.667" y="0" type="line"/>
+      <point x="473.333" y="0" type="line"/>
+      <point x="530.333" y="326.667" type="line" smooth="yes"/>
+      <point x="550.667" y="440.667" name="hr01"/>
+      <point x="493" y="510" name="hr02"/>
+      <point x="379" y="510" type="curve" smooth="yes" name="n24"/>
+      <point x="332" y="510"/>
+      <point x="294.667" y="492"/>
+      <point x="269" y="475" type="curve"/>
+      <point x="253.667" y="464"/>
+      <point x="239.667" y="453"/>
+      <point x="228.667" y="440" type="curve" name="hr03"/>
+      <point x="223.667" y="440" type="line" name="n31"/>
+      <point x="224.667" y="500" type="line" name="n32"/>
+      <point x="134.667" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>eb0603b88d0088174af51a259552c4f98b139145e3490e4f863dfa107275311c42b4158986f86c3a7344d9fd33f4cbde37655d914fac7d77e136068aa539cc72</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 564 132.67</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 421.67 88.33</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 440 60</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 564 132.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 421.67 88.33</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 564 132.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 440 60</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 564 132.67</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

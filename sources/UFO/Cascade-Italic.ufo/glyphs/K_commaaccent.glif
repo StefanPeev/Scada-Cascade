@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="2">
+  <advance width="555"/>
+  <unicode hex="0136"/>
+  <anchor x="0" y="0" name="b.uni0328_1"/>
+  <anchor x="0" y="0" name="m.gravecomb_2"/>
+  <anchor x="224" y="-226" name="m.uni0326"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line" name="n00"/>
+      <point x="165" y="0" type="line"/>
+      <point x="226" y="350" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="515" y="0" type="line"/>
+      <point x="338" y="360" type="line"/>
+      <point x="628" y="700" type="line" name="n06"/>
+      <point x="513" y="700" type="line"/>
+      <point x="230" y="370" type="line"/>
+      <point x="288" y="700" type="line"/>
+      <point x="188" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="-226" type="line"/>
+      <point x="219" y="-217"/>
+      <point x="234" y="-205"/>
+      <point x="248" y="-190" type="curve" smooth="yes"/>
+      <point x="272" y="-165"/>
+      <point x="297" y="-127"/>
+      <point x="308" y="-74" type="curve" name="n17"/>
+      <point x="315" y="-35"/>
+      <point x="294" y="-10"/>
+      <point x="259" y="-10" type="curve" smooth="yes" name="n20"/>
+      <point x="234" y="-10"/>
+      <point x="205" y="-34"/>
+      <point x="200" y="-65" type="curve" smooth="yes" name="n23"/>
+      <point x="195" y="-96"/>
+      <point x="215" y="-120"/>
+      <point x="240" y="-120" type="curve" name="n26"/>
+      <point x="236" y="-140"/>
+      <point x="221" y="-158"/>
+      <point x="206" y="-173" type="curve"/>
+      <point x="197" y="-181"/>
+      <point x="188" y="-188"/>
+      <point x="177" y="-195" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e2c3a974f510ac4cd3ca8190e8d16ffb7c87b6c09682c7baf778273e0785f8a72fc510f714359d9736a80fb4e8275045a04b49a3c85838d3b203d2eb842cfe08</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>vstem 65 563</string>
+          <string>hstem 700 -20</string>
+          <string>hstem -120 110</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 200 108</string>
+          <string>hstem -120 110</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>n17</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

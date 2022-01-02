@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0304" format="2">
+  <unicode hex="0304"/>
+  <anchor x="-92" y="500" name="_m.gravecomb"/>
+  <anchor x="-92" y="500" name="_m.gravecomb_2"/>
+  <anchor x="-92" y="500" name="_t.gravecomb"/>
+  <anchor x="-64" y="660" name="t.gravecomb"/>
+  <outline>
+    <contour>
+      <point x="-211" y="590" type="line" name="n00"/>
+      <point x="59" y="590" type="line"/>
+      <point x="71" y="660" type="line" name="n02"/>
+      <point x="-199" y="660" type="line" name="n03"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-211,590l59,590l71,660l-199,660</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 590 70</string>
+          <string>vstem -211 282</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0492" format="2">
+  <advance width="515"/>
+  <unicode hex="0492"/>
+  <anchor x="0" y="0" name="b.uni0326_2"/>
+  <anchor x="0" y="0" name="b.uni0328_3"/>
+  <anchor x="226" y="350" name="b.uni0335_1"/>
+  <anchor x="407" y="700" name="m.gravecomb"/>
+  <outline>
+    <contour>
+      <point x="587" y="610" type="line" name="n00"/>
+      <point x="603" y="700" type="line" name="n01"/>
+      <point x="183" y="700" type="line"/>
+      <point x="129" y="395" type="line" name="n03"/>
+      <point x="74" y="395" type="line"/>
+      <point x="58" y="305" type="line" name="n05"/>
+      <point x="114" y="305" type="line" name="n06"/>
+      <point x="60" y="0" type="line" name="n07"/>
+      <point x="200" y="0" type="line"/>
+      <point x="254" y="305" type="line"/>
+      <point x="378" y="305" type="line"/>
+      <point x="394" y="395" type="line"/>
+      <point x="269" y="395" type="line"/>
+      <point x="307" y="610" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w515m587,610l603,700l183,700l129,395l74,395l58,305l114,305l60,0l200,0l254,305l378,305l394,395l269,395l307,610</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 305 90</string>
+          <string>hstem 610 90</string>
+          <string>vstem 58 545</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

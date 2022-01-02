@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04C2" format="2">
+  <advance width="740"/>
+  <unicode hex="04C2"/>
+  <anchor x="0" y="0" name="b.uni0326_2"/>
+  <anchor x="0" y="0" name="b.uni0328_3"/>
+  <anchor x="0" y="0" name="b.uni0335_1"/>
+  <anchor x="430" y="500" name="m.gravecomb"/>
+  <outline>
+    <component base="uni0436"/>
+    <contour>
+      <point x="429" y="550" type="curve" smooth="yes" name="n00"/>
+      <point x="529" y="550"/>
+      <point x="587" y="600"/>
+      <point x="602" y="680" type="curve"/>
+      <point x="512" y="680" type="line"/>
+      <point x="504" y="629"/>
+      <point x="480" y="610"/>
+      <point x="440" y="610" type="curve" smooth="yes"/>
+      <point x="406.667" y="610"/>
+      <point x="390" y="623.194"/>
+      <point x="390" y="657.106" type="curve" smooth="yes" name="n10"/>
+      <point x="390" y="663.889"/>
+      <point x="390.667" y="671.5"/>
+      <point x="392" y="680" type="curve" name="n13"/>
+      <point x="302" y="680" type="line"/>
+      <point x="300.029" y="669.486"/>
+      <point x="299.042" y="659.49"/>
+      <point x="299.042" y="650.057" type="curve" smooth="yes" name="n17"/>
+      <point x="299.042" y="587.721"/>
+      <point x="342.143" y="550"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>cba26911a6749034e6a56529f8e6320eff8eb69ddcabfbd557afecc2ceb553c9d2db43783f7eb90e68bb46cc578528309c7e79707611428fdd0c1dfb0014abdc</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 550 130</string>
+          <string>vstem 299.04 90.96</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

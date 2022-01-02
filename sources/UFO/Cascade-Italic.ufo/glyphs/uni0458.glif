@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0458" format="2">
+  <advance width="250"/>
+  <unicode hex="0458"/>
+  <outline>
+    <contour>
+      <point x="202" y="580" type="curve" smooth="yes" name="n00"/>
+      <point x="237" y="580"/>
+      <point x="265" y="605"/>
+      <point x="272" y="640" type="curve" smooth="yes"/>
+      <point x="279" y="675"/>
+      <point x="258" y="700"/>
+      <point x="223" y="700" type="curve" smooth="yes" name="n06"/>
+      <point x="188" y="700"/>
+      <point x="159" y="675"/>
+      <point x="152" y="640" type="curve" smooth="yes"/>
+      <point x="145" y="605"/>
+      <point x="167" y="580"/>
+    </contour>
+    <contour>
+      <point x="-50" y="-200" type="curve" smooth="yes" name="n12"/>
+      <point x="49" y="-200"/>
+      <point x="126" y="-136"/>
+      <point x="142" y="-40" type="curve"/>
+      <point x="238" y="500" type="line" name="n16"/>
+      <point x="138" y="500" type="line"/>
+      <point x="42" y="-40" type="line" smooth="yes"/>
+      <point x="31" y="-100"/>
+      <point x="-3" y="-130"/>
+      <point x="-47" y="-130" type="curve" smooth="yes" name="n21"/>
+      <point x="-62" y="-130"/>
+      <point x="-75" y="-125"/>
+      <point x="-84" y="-118" type="curve"/>
+      <point x="-89" y="-115"/>
+      <point x="-94" y="-110"/>
+      <point x="-98" y="-105" type="curve"/>
+      <point x="-108" y="-105" type="line"/>
+      <point x="-144" y="-170" type="line"/>
+      <point x="-137" y="-176"/>
+      <point x="-129" y="-181"/>
+      <point x="-120" y="-185" type="curve"/>
+      <point x="-104" y="-193"/>
+      <point x="-81" y="-200"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>13bd30c92ec99ff9f2a747c33b237e72619ffe0fb26cdda6dbd30561f158e325243e5b984a854cb5d9735faa7bd60a18d35130806031101d66e6c03abd236718</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -200 70</string>
+          <string>hstem 500 -20</string>
+          <string>hstem 580 120</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

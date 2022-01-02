@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="2">
+  <advance width="822"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="328.333" y="0" type="curve" smooth="yes" name="n00"/>
+      <point x="768.333" y="0" type="line"/>
+      <point x="781.333" y="76.6667" type="line"/>
+      <point x="498" y="76.6667" type="line"/>
+      <point x="542.333" y="326.667" type="line" name="n04"/>
+      <point x="765.667" y="326.667" type="line"/>
+      <point x="779" y="403.333" type="line"/>
+      <point x="555.667" y="403.333" type="line" name="n07"/>
+      <point x="594.667" y="623.333" type="line"/>
+      <point x="878" y="623.333" type="line"/>
+      <point x="891.333" y="700" type="line"/>
+      <point x="451.333" y="700" type="line" smooth="yes" name="n11"/>
+      <point x="255" y="700"/>
+      <point x="132.333" y="597.333"/>
+      <point x="89.3333" y="350" type="curve"/>
+      <point x="45" y="102.667"/>
+      <point x="132" y="0"/>
+    </contour>
+    <contour>
+      <point x="341.333" y="76.6667" type="line" smooth="yes" name="n17"/>
+      <point x="221.333" y="76.6667"/>
+      <point x="166.333" y="142.667"/>
+      <point x="202.667" y="350" type="curve" smooth="yes"/>
+      <point x="239" y="557.333"/>
+      <point x="318" y="623.333"/>
+      <point x="438" y="623.333" type="curve" smooth="yes"/>
+      <point x="481.333" y="623.333" type="line" name="n24"/>
+      <point x="384.667" y="76.6667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>000c954c53af1d5a5a5dc601b20832a6ea9c347301cbc57466f233baffda747c65b828fb3a63621918af4d452b131bfbb6a9e4c3e9f35163ab7d438e92958939</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 76.67</string>
+          <string>hstem 326.67 76.67</string>
+          <string>hstem 623.33 76.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

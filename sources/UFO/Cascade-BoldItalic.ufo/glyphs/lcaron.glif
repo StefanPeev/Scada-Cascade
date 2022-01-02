@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="2">
+  <advance width="410"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line" name="n00"/>
+      <point x="185" y="0" type="line"/>
+      <point x="308" y="700" type="line" name="n02"/>
+      <point x="208" y="700" type="line"/>
+      <point x="161" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="460" type="line"/>
+      <point x="388" y="470"/>
+      <point x="405" y="483"/>
+      <point x="420" y="499" type="curve"/>
+      <point x="447" y="526"/>
+      <point x="474" y="566"/>
+      <point x="485" y="625" type="curve" smooth="yes" name="n11"/>
+      <point x="493" y="672"/>
+      <point x="471" y="700"/>
+      <point x="428" y="700" type="curve" smooth="yes" name="n14"/>
+      <point x="396" y="700"/>
+      <point x="363" y="672"/>
+      <point x="356" y="635" type="curve" name="n17"/>
+      <point x="351" y="603"/>
+      <point x="373" y="575"/>
+      <point x="416" y="575" type="curve" name="n20"/>
+      <point x="412" y="552"/>
+      <point x="394" y="533"/>
+      <point x="378" y="518" type="curve"/>
+      <point x="369" y="509"/>
+      <point x="358" y="501"/>
+      <point x="347" y="494" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f554720b4d803ea853b006b17add1f40a06cb0cebef3c7b1154a94adabc4bddc1773c4945cc80723dbd86d80c700fa21beaac3430617da449aec186a4de587bf</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 575 125</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 356 129</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

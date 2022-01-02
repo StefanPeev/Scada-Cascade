@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0472" format="2">
+  <advance width="620"/>
+  <unicode hex="0472"/>
+  <anchor x="0" y="0" name="b.uni0326_2"/>
+  <anchor x="0" y="0" name="b.uni0328_3"/>
+  <anchor x="340.667" y="350" name="b.uni0335_1"/>
+  <anchor x="409" y="700" name="m.gravecomb"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="173.333" y="308.333" type="line" name="n00"/>
+      <point x="505.333" y="308.333" type="line"/>
+      <point x="520" y="391.667" type="line"/>
+      <point x="188" y="391.667" type="line" name="n03"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w620m173.33,308.33l505.33,308.33l520,391.67l188,391.67</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 308.33 83.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

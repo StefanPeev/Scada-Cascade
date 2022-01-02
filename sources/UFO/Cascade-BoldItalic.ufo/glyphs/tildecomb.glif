@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="-102" y="500" name="_m.gravecomb"/>
+  <anchor x="-102" y="500" name="_m.gravecomb_2"/>
+  <anchor x="-102" y="500" name="_t.gravecomb"/>
+  <anchor x="-64" y="720" name="t.gravecomb"/>
+  <outline>
+    <contour>
+      <point x="35" y="715" type="curve"/>
+      <point x="33.402" y="715"/>
+      <point x="27.5835" y="715"/>
+      <point x="26" y="715" type="curve"/>
+      <point x="27" y="714"/>
+      <point x="4" y="674"/>
+      <point x="-21" y="675" type="curve" name="n06"/>
+      <point x="-56" y="675"/>
+      <point x="-69" y="720" name="hr01"/>
+      <point x="-124" y="720" type="curve" smooth="yes" name="n09"/>
+      <point x="-175" y="720"/>
+      <point x="-223" y="671"/>
+      <point x="-236" y="620" type="curve" name="n12"/>
+      <point x="-228.831" y="615.783"/>
+      <point x="-196.794" y="596.938"/>
+      <point x="-185" y="590" type="curve"/>
+      <point x="-183.402" y="590"/>
+      <point x="-177.583" y="590"/>
+      <point x="-176" y="590" type="curve"/>
+      <point x="-176" y="591"/>
+      <point x="-153" y="629"/>
+      <point x="-129" y="630" type="curve" name="n21"/>
+      <point x="-94" y="630"/>
+      <point x="-83" y="585" name="hr02"/>
+      <point x="-27" y="585" type="curve" smooth="yes" name="n24"/>
+      <point x="22" y="585"/>
+      <point x="72" y="634"/>
+      <point x="85" y="685" type="curve" name="n27"/>
+      <point x="77.9717" y="689.217"/>
+      <point x="46.5627" y="708.062"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>bca20476128da95b8e7d1d8ff9718b32bc45ac1ef8c335f9defb4e1b3e90a25f0ab352ca55c78a0a651ee7180c1ffcca3aba8170feea9d1a459464c468c1a950</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 585 90</string>
+          <string>vstem -236 321</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 630 90</string>
+          <string>vstem -236 321</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 585 90</string>
+          <string>vstem -236 321</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

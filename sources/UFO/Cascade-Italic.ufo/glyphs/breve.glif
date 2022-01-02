@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="2">
+  <advance width="320"/>
+  <unicode hex="02D8"/>
+  <outline>
+    <contour>
+      <point x="233" y="560" type="curve" smooth="yes" name="n00"/>
+      <point x="333" y="560"/>
+      <point x="391" y="610"/>
+      <point x="406" y="690" type="curve"/>
+      <point x="316" y="690" type="line"/>
+      <point x="307" y="639"/>
+      <point x="284" y="620" name="hr01"/>
+      <point x="244" y="620" type="curve" smooth="yes" name="n07"/>
+      <point x="204" y="620"/>
+      <point x="187" y="639"/>
+      <point x="196" y="690" type="curve" name="n10"/>
+      <point x="106" y="690" type="line"/>
+      <point x="91" y="610"/>
+      <point x="133" y="560"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w320m233,560c333,560 391,610 406,690l316,690c307,639 284,620 244,620c204,620 187,639 196,690l106,690c91,610 133,560 233,560</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 560 130</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 560 60</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 560 60</string>
+        </array>
+        <key>pointTag</key>
+        <string>n10</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

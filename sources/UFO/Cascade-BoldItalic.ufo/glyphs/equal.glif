@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal" format="2">
+  <advance width="510"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="76" y="376" type="line" name="n00"/>
+      <point x="516" y="376" type="line"/>
+      <point x="533" y="476" type="line" name="n02"/>
+      <point x="93" y="476" type="line" name="n03"/>
+    </contour>
+    <contour>
+      <point x="42" y="185" type="line" name="n04"/>
+      <point x="482" y="185" type="line"/>
+      <point x="500" y="285" type="line"/>
+      <point x="60" y="285" type="line" name="n07"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w510m76,376l516,376l533,476l93,476m42,185l482,185l500,285l60,285</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 185 100</string>
+          <string>hstem 376 100</string>
+          <string>vstem 42 491</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="2">
+  <advance width="523"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="580" y="616.667" type="line" name="n00"/>
+      <point x="594.667" y="700" type="line" name="n01"/>
+      <point x="184.667" y="700" type="line"/>
+      <point x="61.6667" y="0" type="line"/>
+      <point x="245.667" y="0" type="line"/>
+      <point x="234" y="-7.66667"/>
+      <point x="223.667" y="-16.3333"/>
+      <point x="214" y="-25.6667" type="curve" smooth="yes"/>
+      <point x="197.667" y="-42"/>
+      <point x="180" y="-64.3333"/>
+      <point x="176.333" y="-90" type="curve"/>
+      <point x="166.333" y="-142.333"/>
+      <point x="193" y="-175"/>
+      <point x="263.667" y="-175" type="curve" smooth="yes" name="n13"/>
+      <point x="288.667" y="-175"/>
+      <point x="309.667" y="-170"/>
+      <point x="324.667" y="-163" type="curve"/>
+      <point x="333.667" y="-160"/>
+      <point x="341" y="-155"/>
+      <point x="348" y="-150" type="curve"/>
+      <point x="359" y="-88" type="line"/>
+      <point x="350" y="-88" type="line"/>
+      <point x="351" y="-88"/>
+      <point x="324" y="-110"/>
+      <point x="293.333" y="-110" type="curve" smooth="yes" name="n24"/>
+      <point x="270" y="-110"/>
+      <point x="258" y="-95"/>
+      <point x="261" y="-75" type="curve" smooth="yes"/>
+      <point x="264.667" y="-54"/>
+      <point x="283.667" y="-35.6667"/>
+      <point x="302" y="-21.6667" type="curve"/>
+      <point x="313" y="-14"/>
+      <point x="324.667" y="-6.33333"/>
+      <point x="338.333" y="0" type="curve"/>
+      <point x="471.667" y="0" type="line" name="n34"/>
+      <point x="485.667" y="83.3333" type="line" name="n35"/>
+      <point x="202.333" y="83.3333" type="line"/>
+      <point x="245" y="323.333" type="line" name="n37"/>
+      <point x="468.333" y="323.333" type="line"/>
+      <point x="483" y="406.667" type="line"/>
+      <point x="259.667" y="406.667" type="line" name="n40"/>
+      <point x="296.667" y="616.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>abac22780ff5fbc7c82aa514bf78fc0ee82b53c95257aefb5ee2ac8ceccbf124b5780f6e23c75a48b89cad9623a0ae4e31115027a60972552326c44aa7d08938</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -175 65</string>
+          <string>hstem 0 83.33</string>
+          <string>hstem 323.33 83.33</string>
+          <string>hstem 616.67 83.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
